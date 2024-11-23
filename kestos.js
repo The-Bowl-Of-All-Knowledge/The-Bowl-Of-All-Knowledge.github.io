@@ -1491,11 +1491,6 @@ tree = {
         ANSWER: "mayday"
       },
       {
-        SUBJECT: "Congress",
-        QUESTION_CONTENTS: "How many people serve as whips in the U.S",
-        ANSWER: "Congress?"
-      },
-      {
         SUBJECT: "River Topography",
         QUESTION_CONTENTS: "Successive floods over many years may deposit sediment in long strips along both banks of a river, sometimes several feet above the valley floor. Such river banks are called natural what?",
         ANSWER: "levees"
@@ -3847,7 +3842,7 @@ tree = {
       },
       {
         SUBJECT: "Under the Curve",
-        QUESTION_CONTENTS: "What is the area under the curve defined below? y = 3 times (x squared) from x = 2 tox =5",
+        QUESTION_CONTENTS: "What is the area under the curve defined below? y = 3 times (x squared) from x = 2 to x = 5",
         ANSWER: "117"
       },
       {
@@ -13788,7 +13783,7 @@ tree = {
       {
         SUBJECT: "Environmental Disasters",
         QUESTION_CONTENTS: "The worst oil spill in history occurred in 1991 when the military forces of what country intentionally opened valves on hundreds of oil wells and pipelines and released more than 1.3 million tons of oil into the Persian Gulf?",
-        ANSWER: "lrag"
+        ANSWER: "Iraq"
       },
       {
         SUBJECT: "Biology",
