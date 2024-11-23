@@ -2,13 +2,14 @@
 <html lang = "en">
     <style>
         * {
-            font-family: monospace;
+            font-family: Arial, Helvetica, sans-serif;
         }
         html {
             text-align: center;
             background-color: bisque;
         }
         .header {
+            text-shadow: -4px 4px #507f6d;
             background-color: aquamarine;
             font-size: 200%;
             padding: 2% 15%;
@@ -30,14 +31,17 @@
         </div>
 
         <div class="QnA">
-        <h1 id="subject"></h1>
-        <h1 id="question"></h1>
-        <h2 id="ans"></h2>
+        <h1 id="subject">&nbsp</h1>
+        <h1 id="question">&nbsp</h1>
         </div>
 
         <div class="buttons">
             <input id="regenerate" type="button" value="Generate Question" onClick="regenerate()">
             <input id="reveal" type="button" value="Reveal Answer" onClick="reveal()">
+        </div>
+
+        <div class="anser">
+            <h1 id="ans"></h2>
         </div>
        
         <script type="text/javascript" src="kestos.js"></script>
@@ -45,7 +49,7 @@
             shoans = false
             questionindex = 0
             function regenerate() {
-                questionindex = Math.floor(Math.random() * 9984)
+                questionindex = Math.floor(Math.random() * 9983)
                     document.getElementById("subject").textContent = tree.questions[questionindex].SUBJECT
                     document.getElementById("question").textContent = tree.questions[questionindex].QUESTION_CONTENTS
                     document.getElementById("ans").textContent = ""
