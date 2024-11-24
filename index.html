@@ -7,14 +7,34 @@
         html {
             text-align: center;
             background-color: bisque;
+            background-image: url('wrankster.png');
+            background-repeat: no-repeat;
+            background-position: center 0%; 
+            background-size: 1500px 100%;
+            background-size: cover;
+            height: 100%;
+            margin: 0;
+            padding: 0;
         }
         .header {
             text-shadow: -4px 4px #507f6d;
-            background-color: aquamarine;
-            font-size: 200%;
-            padding: 2% 0%;
-            margin: 3% 7%;
+            background-color: rgba(128, 255, 213);
+            font-size: 175%;
+            padding: 0px 10px;
+            margin: 3% 0%;
         }
+        .content {
+            background-color: rgba(128, 255, 213, 0.5);
+            padding: 1px 1px;
+            margin: 3% 15%;
+            margin-top: 15%;
+            margin-bottom: 0%;
+
+            .QnA {
+                font-size: 15px;
+            }
+        }
+        
         footer {
         text-align: left;
         position:fixed;
@@ -41,11 +61,11 @@
         <h1>THE BOWL OF ALL KNOWLEDGE</h1>
         </div>
 
+        <div class="content">
         <div class="QnA">
         <h1 id="subject">&nbsp</h1>
         <h1 id="question">&nbsp</h1>
         </div>
-
         <div class="buttons">
             <input id="regenerate" type="button" value="Generate
 Question" style="height:100px; width:100px" onClick="regenerate()">
@@ -54,9 +74,9 @@ Question" style="height:100px; width:100px" onClick="regenerate()">
             <input id="reveal" type="button" value="Reveal
 Answer" onClick="reveal()" style="height:100px; width:100px">
         </div>
-
         <div class="anser">
             <h1 id="ans"></h2>
+        </div>
         </div>
 
         <footer>
@@ -75,7 +95,7 @@ Answer" onClick="reveal()" style="height:100px; width:100px">
                 awoken = true
             }
             function regenerate() {
-                questionindex = Math.floor(Math.random() * 9980)
+                questionindex = Math.floor(Math.random() * 9979)
                 document.getElementById("subject").textContent = tree.questions[questionindex].SUBJECT
                 document.getElementById("question").textContent = tree.questions[questionindex].QUESTION_CONTENTS
                 if (arev) {
