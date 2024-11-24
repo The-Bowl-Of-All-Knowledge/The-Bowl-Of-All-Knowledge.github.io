@@ -3312,8 +3312,8 @@ tree = {
       },
       {
         SUBJECT: "Triangles",
-        QUESTION_CONTENTS: "Given that the two base angles of a triangle are each 60 degrees and that the length of a side from th",
-        ANSWER: "vertex to the base is 9, what is the length of the base?"
+        QUESTION_CONTENTS: "Given that the two base angles of a triangle are each 60 degrees and that the length of a side from the vertex to the base is 9, what is the length of the base?",
+        ANSWER: "9"
       },
       {
         SUBJECT: "Ancient Literature",
@@ -12491,7 +12491,7 @@ tree = {
         ANSWER: "testimonial"
       },
       {
-        SUBJECT: "s Footnotes",
+        SUBJECT: "Ts Footnotes",
         QUESTION_CONTENTS: "In this example footnote, which words should be in quotation marks?  Mars Observer - Call Home, Miami Herald,  18 December 1993, p. 22.",
         ANSWER: "Mars Observer - Call Home"
       },
@@ -21276,11 +21276,6 @@ tree = {
         ANSWER: "Western Union"
       },
       {
-        SUBJECT: "Triangles",
-        QUESTION_CONTENTS: "Given that the two base angles of a triangle are each 60 degrees and that the length of a side from th",
-        ANSWER: "vertex to the base is 9, what is the length of the base?"
-      },
-      {
         SUBJECT: "Ancient Literature",
         QUESTION_CONTENTS: "What ancient Greek wrote these tales? The Frog and the Ox The Bald Man and the Fly The Dog and the Shadow",
         ANSWER: "Aesop"
@@ -27061,7 +27056,7 @@ tree = {
         ANSWER: "marionette"
       },
       {
-        SUBJECT: "s Footnotes",
+        SUBJECT: "Ts Footnotes",
         QUESTION_CONTENTS: "In this example footnote, which words should be in quotation marks?  Mars Observer - Call Home, Miami Herald,  18 December 1993, p. 22.",
         ANSWER: "Mars Observer - Call Home"
       },
@@ -27086,7 +27081,7 @@ tree = {
         ANSWER: "Jordan River"
       },
       {
-        SUBJECT: "lt. 5. Drainages",
+        SUBJECT: "Alt. 5. Drainages",
         QUESTION_CONTENTS: "Name the largest watershed of the Pacific Northwest.",
         ANSWER: "Columbia River watershed"
       },
@@ -45974,11 +45969,6 @@ tree = {
         SUBJECT: "Science in Art",
         QUESTION_CONTENTS: "In an imaginative portrait, William Blake depicts Isaac Newton calculating how the universe is held together by the law of...",
         ANSWER: "gravitation"
-      },
-      {
-        SUBJECT: "Hinky Pinkies",
-        QUESTION_CONTENTS: "A hinky pinky indicatings someone who is extremely enthusiastic about the theater is a dramatic what?",
-        ANSWER: "fanatic"
       },
       {
         SUBJECT: "Regional Conflicts",
