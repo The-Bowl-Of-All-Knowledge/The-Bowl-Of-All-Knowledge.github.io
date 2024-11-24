@@ -6,8 +6,8 @@
         }
         html {
             text-align: center;
-            background-color: bisque;
-            background-image: url('wrankster.png');
+            background-color: RGB(223, 215, 206);
+            background-image: url('wrankster.jpg');
             background-repeat: no-repeat;
             background-position: center 0%; 
             background-size: 1500px 100%;
@@ -20,12 +20,13 @@
             text-shadow: -4px 4px #507f6d;
             background-color: rgba(128, 255, 213);
             font-size: 175%;
-            padding: 0px 10px;
-            margin: 3% 0%;
+            padding: 0px 0px;
+            margin: -40px -8px;
         }
         .content {
             background-color: rgba(128, 255, 213, 0.5);
-            padding: 1px 1px;
+            border-radius: 15px 50px;
+            padding: 5px 10px;
             margin: 3% 15%;
             margin-top: 15%;
             margin-bottom: 0%;
@@ -69,10 +70,12 @@
         <div class="buttons">
             <input id="regenerate" type="button" value="Generate
 Question" style="height:100px; width:100px" onClick="regenerate()">
-            <input type="checkbox" id="autorev"onclick="autoreveal()">
-            <label for="autorev"> Auto-reveal Answer</label>
             <input id="reveal" type="button" value="Reveal
 Answer" onClick="reveal()" style="height:100px; width:100px">
+        <br>
+        <br>
+        <input type="checkbox" id="autorev"onclick="autoreveal()">
+        <label for="autorev"> Auto-reveal Answer</label>
         </div>
         <div class="anser">
             <h1 id="ans"></h2>
