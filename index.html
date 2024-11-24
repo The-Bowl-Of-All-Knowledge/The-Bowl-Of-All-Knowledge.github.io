@@ -12,15 +12,15 @@
             text-shadow: -4px 4px #507f6d;
             background-color: aquamarine;
             font-size: 200%;
-            padding: 2% 15%;
-            margin: 1.5% 1%;
+            padding: 2% 0%;
+            margin: 3% 7%;
         }
     </style>
 
     <head>
         <meta charset = "UTF-8">
         <meta name = "author" content = "Marascaat">
-        <meta name = "teh fucking BOWL" content="PREPARE TO KNOW THINGS'">
+        <meta name = "teh fucking BOWL" content="PREPARE TO KNOW THINGS">
         <title>The Bowl of all Knowledge</title>
         <link rel="icon" href="bhal.png" type="image/x-icon">
     </head>
@@ -36,8 +36,12 @@
         </div>
 
         <div class="buttons">
-            <input id="regenerate" type="button" value="Generate Question" onClick="regenerate()">
-            <input id="reveal" type="button" value="Reveal Answer" onClick="reveal()">
+            <input id="regenerate" type="button" value="Generate
+Question" style="height:100px; width:100px" onClick="regenerate()">
+            <input type="checkbox" id="autorev"onclick="autoreveal()">
+            <label for="autorev"> Auto-reveal Answer</label>
+            <input id="reveal" type="button" value="Reveal
+Answer" onClick="reveal()" style="height:100px; width:100px">
         </div>
 
         <div class="anser">
@@ -46,27 +50,37 @@
        
         <script type="text/javascript" src="kestos.js"></script>
         <script>
+            awoken = false
+            arev = false
             shoans = false
             questionindex = 0
+            document.getElementById("autorev").checked = false
+            if (!awoken) {
+                regenerate()
+                awoken = true
+            }
             function regenerate() {
-                questionindex = Math.floor(Math.random() * 9983)
-                    document.getElementById("subject").textContent = tree.questions[questionindex].SUBJECT
-                    document.getElementById("question").textContent = tree.questions[questionindex].QUESTION_CONTENTS
+                questionindex = Math.floor(Math.random() * 9980)
+                document.getElementById("subject").textContent = tree.questions[questionindex].SUBJECT
+                document.getElementById("question").textContent = tree.questions[questionindex].QUESTION_CONTENTS
+                if (arev) {
+                    document.getElementById("ans").textContent = tree.questions[questionindex].ANSWER
+                }
+                else {
                     document.getElementById("ans").textContent = ""
+                }
             }
             function reveal(){
-                shoans = true
-                if (shoans) {
                 document.getElementById("ans").textContent = tree.questions[questionindex].ANSWER
-                console.log(tree.questions[5].ANSWER)
             }
+            function autoreveal() {
+                if (!arev) {
+                    arev = true
+                }
+                else {
+                    arev = false
+                }
             }
-            //else {
-            //    document.getElementById("ans").textContent = ""
-            //}
-
-
-            //console.log(tree.questions[5].QUESTION_CONTENTS)
        </script>
     </body>
 </html>
