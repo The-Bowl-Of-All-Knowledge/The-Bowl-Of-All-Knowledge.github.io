@@ -211,7 +211,7 @@ tree = {
         ANSWER: "Earp"
       },
       {
-        SUBJECT: "a Abraham Lincoln",
+        SUBJECT: "Abraham Lincoln",
         QUESTION_CONTENTS: "What name is missing in this passage? Lincoln's first love affair of which there is any record was that with ----, a slender, blue-eyed blonde, nineteen years old, a very lovely and universally admired and generally fascinating girl of South Carolina descent, whose father kept the village tavern at New Salem, Illinois.",
         ANSWER: "Anne Rutledge"
       },
@@ -446,7 +446,7 @@ tree = {
         ANSWER: "Oxford"
       },
       {
-        SUBJECT: "is Simplification",
+        SUBJECT: "Simplification",
         QUESTION_CONTENTS: "Simplify this expression. 3p - 6(4- Sp)",
         ANSWER: "33p - 24"
       },
@@ -706,7 +706,7 @@ tree = {
         ANSWER: "axis"
       },
       {
-        SUBJECT: "is Speed",
+        SUBJECT: "Speed",
         QUESTION_CONTENTS: "For a constant speed, distance equals velocity multiplied by time. Using the same quantities, what does time equal?",
         ANSWER: "distance divided by velocity"
       },
@@ -736,7 +736,7 @@ tree = {
         ANSWER: "Massachusetts"
       },
       {
-        SUBJECT: "a Death Law",
+        SUBJECT: "Death Law",
         QUESTION_CONTENTS: "Legally, the failure to respond to external stimuli, the absence of reflex movement, and prolonged flat electroencephalograph readings are indicators of what kind of death?",
         ANSWER: "brain death"
       },
@@ -806,7 +806,7 @@ tree = {
         ANSWER: "Sea of Cortes (Gulf of California)"
       },
       {
-        SUBJECT: "s The Sun",
+        SUBJECT: "The Sun",
         QUESTION_CONTENTS: "What is the term for that imaginary line where the Sun's rotation is fastest?",
         ANSWER: "equator"
       },
@@ -821,7 +821,7 @@ tree = {
         ANSWER: "Frey"
       },
       {
-        SUBJECT: "lt. 5. Dominance",
+        SUBJECT: "Dominance",
         QUESTION_CONTENTS: "In the midst of the Mesozoic era, the dominant life forms belonged to what taxonomic class?",
         ANSWER: "reptiles"
       },
@@ -1116,7 +1116,7 @@ tree = {
         ANSWER: "Zambia"
       },
       {
-        SUBJECT: "lt. 1. Faults",
+        SUBJECT: "Faults",
         QUESTION_CONTENTS: "Reverse faults are one of the two most common types of dip-slip faults. Name the other.",
         ANSWER: "normal faults"
       },
@@ -1176,7 +1176,7 @@ tree = {
         ANSWER: "Big Brother"
       },
       {
-        SUBJECT: "is Logic",
+        SUBJECT: "Logic",
         QUESTION_CONTENTS: "Which of a pair of plump twins created by Lewis Carroll said this? If it was so, it might be, and , if it were so, it would be, but as it isn't, it ain't. That's logic.",
         ANSWER: "Tweedledee"
       },
@@ -1326,7 +1326,7 @@ tree = {
         ANSWER: "flats"
       },
       {
-        SUBJECT: "s Vertebrates",
+        SUBJECT: "Vertebrates",
         QUESTION_CONTENTS: "The embryos of higher vertebrates have a notochord. What develops from this structure?",
         ANSWER: "spinal (vertebral) column"
       },
@@ -1381,7 +1381,7 @@ tree = {
         ANSWER: "nebulas"
       },
       {
-        SUBJECT: "is Zoology",
+        SUBJECT: "Zoology",
         QUESTION_CONTENTS: "The European hedgehog most closely resembles what North American mammal?",
         ANSWER: "porcupine"
       },
@@ -1696,7 +1696,7 @@ tree = {
         ANSWER: "Copenhagen"
       },
       {
-        SUBJECT: "s Levers",
+        SUBJECT: "Levers",
         QUESTION_CONTENTS: "A lever is a simple machine used to change direction, gain force, or gain ...",
         ANSWER: "speed"
       },
@@ -1716,12 +1716,12 @@ tree = {
         ANSWER: "China, Mongolia"
       },
       {
-        SUBJECT: "lt. 4. Betrayals",
+        SUBJECT: "Betrayals",
         QUESTION_CONTENTS: "This is about an incident in what future state? General Thomas Jesup requested a truce conference, but when Osceola complied, he was treacherously taken captive and died in prison less than three months later.",
         ANSWER: "Florida"
       },
       {
-        SUBJECT: "lt. 4. Seasons",
+        SUBJECT: "Seasons",
         QUESTION_CONTENTS: "In the Northern Hemisphere, what season occurs between the summer solstice and the autumnal equinox?",
         ANSWER: "summer"
       },
@@ -1766,7 +1766,7 @@ tree = {
         ANSWER: "Instruments"
       },
       {
-        SUBJECT: "s Old West Ballets",
+        SUBJECT: "Old West Ballets",
         QUESTION_CONTENTS: "Name Aaron Copland ballet with these sections. Gun Battle The Open Prairie Card Game at Night Street in Frontier Town Celebration After Billy's Capture",
         ANSWER: "Billy the Kid"
       },
@@ -1816,7 +1816,7 @@ tree = {
         ANSWER: "judicial branch"
       },
       {
-        SUBJECT: "lt. 2. Homophones",
+        SUBJECT: "Homophones",
         QUESTION_CONTENTS: "Spell the missing homophone in this analogy. While someone who is well known and highly regarded is eminent, an event that is about to take place is ...",
         ANSWER: "imminent"
       },
@@ -1961,7 +1961,7 @@ tree = {
         ANSWER: "Ohio"
       },
       {
-        SUBJECT: "lt. 2. Pronouns",
+        SUBJECT: "Pronouns",
         QUESTION_CONTENTS: "What type of singular pronoun is illustrated in this quip?  The closest anyone ever comes to perfection  is on a job application form.",
         ANSWER: "indefinite"
       },
@@ -2041,7 +2041,7 @@ tree = {
         ANSWER: "text"
       },
       {
-        SUBJECT: "i The Declaration",
+        SUBJECT: "The Declaration",
         QUESTION_CONTENTS: "What word in the solemn promise at the end of the Declaration of Independence is also the name for one of the U.S. capital cities?",
         ANSWER: "Providence"
       },
@@ -2266,7 +2266,7 @@ tree = {
         ANSWER: "mantle"
       },
       {
-        SUBJECT: "is Areas of Triangles",
+        SUBJECT: "Areas of Triangles",
         QUESTION_CONTENTS: "A triangle has a height of 22 feet and a base of 9 feet. What is its area?",
         ANSWER: "99 square feet"
       },
@@ -2301,7 +2301,7 @@ tree = {
         ANSWER: "boll weevil"
       },
       {
-        SUBJECT: "s Hobbits",
+        SUBJECT: "Hobbits",
         QUESTION_CONTENTS: "The hobbit Bilbo Baggins lives at Bag End in what community?",
         ANSWER: "Hobbiton"
       },
@@ -2396,7 +2396,7 @@ tree = {
         ANSWER: "atmosphere"
       },
       {
-        SUBJECT: "lt. 3. Transportation Projects",
+        SUBJECT: "Transportation Projects",
         QUESTION_CONTENTS: "In 1817, digging began on the greatest American  construction project yet undertaken. What was being built?",
         ANSWER: "Erie Canal"
       },
@@ -2411,7 +2411,7 @@ tree = {
         ANSWER: "water (or ice)"
       },
       {
-        SUBJECT: "s Wilderness Tales",
+        SUBJECT: "Wilderness Tales",
         QUESTION_CONTENTS: "This is from what Jack London story? He was beaten, but he was not broken. He saw, once and for all, that he stood no chance against a man with a club. He had learned the lesson, and in all his after life he never forgot it. That club was a revelation. It was his introduction to the reign of primitive law, and he met the introduction halfway.",
         ANSWER: "The Call of the Wild"
       },
@@ -2431,7 +2431,7 @@ tree = {
         ANSWER: "license"
       },
       {
-        SUBJECT: "a The Ocean Floor",
+        SUBJECT: "The Ocean Floor",
         QUESTION_CONTENTS: "Seamounts are most prevalent in which ocean?",
         ANSWER: "Pacific"
       },
@@ -2876,7 +2876,7 @@ tree = {
         ANSWER: "reed"
       },
       {
-        SUBJECT: "i Oceanic Gases",
+        SUBJECT: "Oceanic Gases",
         QUESTION_CONTENTS: "What gas is formed in ocean water through the metabolic processes of fish?",
         ANSWER: "carbon dioxide"
       },
@@ -3311,11 +3311,6 @@ tree = {
         ANSWER: "Gamal Nasser"
       },
       {
-        SUBJECT: "Triangles",
-        QUESTION_CONTENTS: "Given that the two base angles of a triangle are each 60 degrees and that the length of a side from the vertex to the base is 9, what is the length of the base?",
-        ANSWER: "9"
-      },
-      {
         SUBJECT: "Ancient Literature",
         QUESTION_CONTENTS: "What ancient Greek wrote these tales? The Frog and the Ox The Bald Man and the Fly The Dog and the Shadow",
         ANSWER: "Aesop"
@@ -3441,7 +3436,7 @@ tree = {
         ANSWER: "6th amendment"
       },
       {
-        SUBJECT: "is Czars",
+        SUBJECT: "Czars",
         QUESTION_CONTENTS: "The eldest son of a Russian czar was the czarevitch. The czar's wife was called the ...",
         ANSWER: "czarina"
       },
@@ -3541,7 +3536,7 @@ tree = {
         ANSWER: "iron"
       },
       {
-        SUBJECT: "is Mongolians",
+        SUBJECT: "Mongolians",
         QUESTION_CONTENTS: "Tamerlane was a descendant of what earlier Mongol conqueror?",
         ANSWER: "Genghis Khan (or Kublai Khan)"
       },
@@ -3696,7 +3691,7 @@ tree = {
         ANSWER: "Lord Jim"
       },
       {
-        SUBJECT: "i Government",
+        SUBJECT: "Government",
         QUESTION_CONTENTS: "In contrast to a unitary government in which a central authority holds the power or a confederation in which the member states are clearly dominant, what 'ism' indicates a type of government where power is divided between the national government and other governmental units?",
         ANSWER: "federalism"
       },
@@ -3861,7 +3856,7 @@ tree = {
         ANSWER: "Boston Massacre"
       },
       {
-        SUBJECT: "is Settings",
+        SUBJECT: "Settings",
         QUESTION_CONTENTS: "From certain root words in this line by Robert  Heinlein, you can tell the story is set where? I see in 'Lunaya Pravda' that Luna City Council has passed on first reading a bill to examine, license, inspect, and tax, public food vendors operating inside municipal pressure.",
         ANSWER: "Moon"
       },
@@ -3901,7 +3896,7 @@ tree = {
         ANSWER: "17"
       },
       {
-        SUBJECT: "lt. 5. Reasoning",
+        SUBJECT: "Reasoning",
         QUESTION_CONTENTS: "While deductions from correct premises are always 100% probable, with what category of reasoning are the conclusions always less than 100% probable?",
         ANSWER: "induction"
       },
@@ -3951,7 +3946,7 @@ tree = {
         ANSWER: "Big Ben"
       },
       {
-        SUBJECT: "lt. 2. Settings",
+        SUBJECT: "Settings",
         QUESTION_CONTENTS: "These novels are all partly set in what country? Climbing the Pyramid Tampico Gold Mission in Cancun Four Days to Veracruz",
         ANSWER: "Mexico"
       },
@@ -4041,7 +4036,7 @@ tree = {
         ANSWER: "Dutch"
       },
       {
-        SUBJECT: "i Scales",
+        SUBJECT: "Scales",
         QUESTION_CONTENTS: "The pH scale expresses either the acidity of a solution or its ...",
         ANSWER: "alkalinity (or neutrality)"
       },
@@ -4316,7 +4311,7 @@ tree = {
         ANSWER: "ampere (amp)"
       },
       {
-        SUBJECT: "a Twisted Tales",
+        SUBJECT: "Twisted Tales",
         QUESTION_CONTENTS: "In what story by O. Henry do Bill and Sam discover that the boy they have kidnapped is such a terror that they actually have to pay the father to take the kid back?",
         ANSWER: "The Ransom of Red Chief"
       },
@@ -4376,7 +4371,7 @@ tree = {
         ANSWER: "Richard Wagner"
       },
       {
-        SUBJECT: "a Force",
+        SUBJECT: "Force",
         QUESTION_CONTENTS: "You are swinging a ball on the end of a string around your head. At the instant the string breaks, what kind of force is no longer exerted on the ball?",
         ANSWER: "centripetal"
       },
@@ -4976,7 +4971,7 @@ tree = {
         ANSWER: "epidemiology"
       },
       {
-        SUBJECT: "i Mexico",
+        SUBJECT: "Mexico",
         QUESTION_CONTENTS: "The Mexican states of Chiapas, Tabasco, and Campeche are adjacent to what Central American country?",
         ANSWER: "Guatemala"
       },
@@ -5006,7 +5001,7 @@ tree = {
         ANSWER: "couplet"
       },
       {
-        SUBJECT: "s Historic Art",
+        SUBJECT: "Historic Art",
         QUESTION_CONTENTS: "In what tiny independent state within Italy did Michelangelo paint the ceiling of the Sistine Chapel?",
         ANSWER: "Vatican City"
       },
@@ -5251,7 +5246,7 @@ tree = {
         ANSWER: "extinction"
       },
       {
-        SUBJECT: "lt. 2. Lofty Sites",
+        SUBJECT: "Lofty Sites",
         QUESTION_CONTENTS: "In what country is the Kathmandu Valley World Heritage Site located?",
         ANSWER: "Nepal"
       },
@@ -5436,7 +5431,7 @@ tree = {
         ANSWER: "reversal"
       },
       {
-        SUBJECT: "lt. 3. Runoff",
+        SUBJECT: "Runoff",
         QUESTION_CONTENTS: "Approximately half the land area of the contiguous 48 states is in the drainage basin of what river?",
         ANSWER: "Mississippi"
       },
@@ -5656,7 +5651,7 @@ tree = {
         ANSWER: "earthquakes (meteorite impacts, volcanic eruptions)"
       },
       {
-        SUBJECT: "is Appropriations",
+        SUBJECT: "Appropriations",
         QUESTION_CONTENTS: "When Congress does not complete its appropriations work by the beginning of the next fiscal year, to keep federal agencies operating in the interim, it may pass what kind of appropriation?",
         ANSWER: "continuing appropriation"
       },
@@ -5736,7 +5731,7 @@ tree = {
         ANSWER: "54"
       },
       {
-        SUBJECT: "i Adventure Novels",
+        SUBJECT: "Adventure Novels",
         QUESTION_CONTENTS: "In Eric Campbell's novel, 'Place of Lions,' an airplane crashes in what vast Tanzanian plain west of the Great Rift Valley?",
         ANSWER: "Serengeti"
       },
@@ -5766,7 +5761,7 @@ tree = {
         ANSWER: "magnetosphere"
       },
       {
-        SUBJECT: "e Deserts",
+        SUBJECT: "Deserts",
         QUESTION_CONTENTS: "What desert is about 500 miles east of the Canary Islands?",
         ANSWER: "Sahara Desert"
       },
@@ -5801,7 +5796,7 @@ tree = {
         ANSWER: "The Legend of Sleepy Hollow"
       },
       {
-        SUBJECT: "i Latin Phrases",
+        SUBJECT: "Latin Phrases",
         QUESTION_CONTENTS: "When would a 'post mortem' examination be conducted on Phileas Vanderslumgullion?",
         ANSWER: "after his death"
       },
@@ -5876,7 +5871,7 @@ tree = {
         ANSWER: "William Lloyd Garrison"
       },
       {
-        SUBJECT: "a Patterns",
+        SUBJECT: "Patterns",
         QUESTION_CONTENTS: "The term comes from a Scottish town famed for its textile production. What adjective indicates a fabric figured with a pattern of colorful, curved droplet shapes?",
         ANSWER: "paisley"
       },
@@ -5886,7 +5881,7 @@ tree = {
         ANSWER: "48"
       },
       {
-        SUBJECT: "lt. 2. Experiments",
+        SUBJECT: "Experiments",
         QUESTION_CONTENTS: "By arbitrary agreement, the graph of the dependent variable in an experiment is plotted on which axis?",
         ANSWER: "y-axis (ordinate)"
       },
@@ -6031,12 +6026,12 @@ tree = {
         ANSWER: "Thor"
       },
       {
-        SUBJECT: "s Teeth",
+        SUBJECT: "Teeth",
         QUESTION_CONTENTS: "The eight sharp front teeth are called ...",
         ANSWER: "incisors"
       },
       {
-        SUBJECT: "i Voltaire on Government",
+        SUBJECT: "Voltaire on Government",
         QUESTION_CONTENTS: "What predicate adjective completes this thought by Voltaire? It is dangerous to be right in matters on which the established authorities are ...",
         ANSWER: "wrong"
       },
@@ -6321,7 +6316,7 @@ tree = {
         ANSWER: "periodicity"
       },
       {
-        SUBJECT: "lt. 1. Sets",
+        SUBJECT: "Sets",
         QUESTION_CONTENTS: "What kind of mathematical set is the set of multiples of 31?",
         ANSWER: "infinite set"
       },
@@ -6436,12 +6431,12 @@ tree = {
         ANSWER: "Judy Blume"
       },
       {
-        SUBJECT: "lt. 1. Federal Departments",
+        SUBJECT: "Federal Departments",
         QUESTION_CONTENTS: "Federal programs providing services to farmers are administered by what U.S. executive department?",
         ANSWER: "Department of Agriculture"
       },
       {
-        SUBJECT: "lt. 5. Barometers",
+        SUBJECT: "Barometers",
         QUESTION_CONTENTS: "What kind of barometer contains metal that shrinks  when air pressure rises and expands when air pressure falls?",
         ANSWER: "aneroid barometer"
       },
@@ -6536,7 +6531,7 @@ tree = {
         ANSWER: "Salem"
       },
       {
-        SUBJECT: "lt. 2. Genetic Traits",
+        SUBJECT: "Genetic Traits",
         QUESTION_CONTENTS: "Ralphie has a dominant gene which causes his skin to produce an uneven pattern of protective melanin pigment when exposed to the Sun. Name this skin condition.",
         ANSWER: "freckles"
       },
@@ -6636,7 +6631,7 @@ tree = {
         ANSWER: "They have the least seniority."
       },
       {
-        SUBJECT: "lt. 5. Zeal",
+        SUBJECT: "Zeal",
         QUESTION_CONTENTS: "What topic is missing in this passage? During the day and night I talked much with John Brown, and found him as brave as a man could be, and sensible upon all subjects except ----, upon which he was a religious fanatic.",
         ANSWER: "slavery"
       },
@@ -6741,7 +6736,7 @@ tree = {
         ANSWER: "caldera"
       },
       {
-        SUBJECT: "is Astronomy",
+        SUBJECT: "Astronomy",
         QUESTION_CONTENTS: "If the big bang theory is correct, the energy left from this primordial event should be spread out throughout the universe. What adjective describes this type of radiation?",
         ANSWER: "background"
       },
@@ -6881,7 +6876,7 @@ tree = {
         ANSWER: "gills"
       },
       {
-        SUBJECT: "lt. 1. Boiling Points",
+        SUBJECT: "Boiling Points",
         QUESTION_CONTENTS: "Water boils at the lowest temperature at the top of what mountain in the United States?",
         ANSWER: "Mt. McKinley (Denali)"
       },
@@ -7026,7 +7021,7 @@ tree = {
         ANSWER: "abdomen"
       },
       {
-        SUBJECT: "i Publications",
+        SUBJECT: "Publications",
         QUESTION_CONTENTS: "What is the collective name for such publications as these?  Good Housekeeping  Sports Illustrated  Popular Mechanics  Entertainment Weekly",
         ANSWER: "periodicals"
       },
@@ -7066,7 +7061,7 @@ tree = {
         ANSWER: "active"
       },
       {
-        SUBJECT: "s Raids",
+        SUBJECT: "Raids",
         QUESTION_CONTENTS: "This is about what facility? This Paris arms depot and prison was attacked in the search for arms on July 14, 1789, and the prisoners inside were freed.",
         ANSWER: "Bastille"
       },
@@ -7076,7 +7071,7 @@ tree = {
         ANSWER: "Greenland"
       },
       {
-        SUBJECT: "a Scientists",
+        SUBJECT: "Scientists",
         QUESTION_CONTENTS: "He lost an eye in an explosion, took up organic chemistry, and went on to develop the field of spectroscopy. Name this German chemist after whom laboratory burners were named.",
         ANSWER: "Robert Bunsen"
       },
@@ -7306,7 +7301,7 @@ tree = {
         ANSWER: "Iran"
       },
       {
-        SUBJECT: "a The Cold War",
+        SUBJECT: "The Cold War",
         QUESTION_CONTENTS: "What symbol is indicated below? In the fall of 1989, the most visible symbol of the Cold War was chipped away piece by piece by a joyful population determined to end the politically enforced partition of their country.",
         ANSWER: "Berlin Wall"
       },
@@ -7721,7 +7716,7 @@ tree = {
         ANSWER: "circus"
       },
       {
-        SUBJECT: "s Forms of Drama",
+        SUBJECT: "Forms of Drama",
         QUESTION_CONTENTS: "What is the phrase for a serialized melodrama for daytime television?",
         ANSWER: "soap opera (soap)"
       },
@@ -8006,7 +8001,7 @@ tree = {
         ANSWER: "shorter"
       },
       {
-        SUBJECT: "lt. 2. Legends in Song",
+        SUBJECT: "Legends in Song",
         QUESTION_CONTENTS: "This is a verse from a song about what legendary being? So over I jumped and she pulled me down, down to her seaweed bed, / A pillow made of tortoise-shell she placed beneath my head, / She fed me shrimp and caviar upon a silver dish / From her head to her waist was just to my taste but the rest of her was a fish.",
         ANSWER: "mermaid"
       },
@@ -8651,7 +8646,7 @@ tree = {
         ANSWER: "cooling"
       },
       {
-        SUBJECT: "lt. 3. Evolution",
+        SUBJECT: "Evolution",
         QUESTION_CONTENTS: "The Asian jerboa, the North American kangaroo rat, and the Australian hopping mouse evolved similar adaptations for hot desert environments such as large hind legs, thin tails, and bipedal leaping. This illustrates what kind of evolution?",
         ANSWER: "convergent evolution"
       },
@@ -8736,7 +8731,7 @@ tree = {
         ANSWER: "electrical, mechanical"
       },
       {
-        SUBJECT: "a Nuclear Powers",
+        SUBJECT: "Nuclear Powers",
         QUESTION_CONTENTS: "Name either country adjacent to the Arabian Sea that definitely has atomic weapons.",
         ANSWER: "Pakistan, India"
       },
@@ -8756,7 +8751,7 @@ tree = {
         ANSWER: "O'er the land of the free"
       },
       {
-        SUBJECT: "lt. 4. Fields of Science",
+        SUBJECT: "Fields of Science",
         QUESTION_CONTENTS: "A person interested in Rossby waves and Hadley cells is probably in what field of science?",
         ANSWER: "meteorology"
       },
@@ -8961,7 +8956,7 @@ tree = {
         ANSWER: "half"
       },
       {
-        SUBJECT: "lt. 2. State Borders",
+        SUBJECT: "State Borders",
         QUESTION_CONTENTS: "To its west, Idaho borders what states?",
         ANSWER: "Oregon, Washington"
       },
@@ -8986,7 +8981,7 @@ tree = {
         ANSWER: "nunnery"
       },
       {
-        SUBJECT: "e Dickens",
+        SUBJECT: "Dickens",
         QUESTION_CONTENTS: "What character in 'Great Expectations' teaches her adopted daughter to hate men?",
         ANSWER: "Miss Havisham"
       },
@@ -9251,7 +9246,7 @@ tree = {
         ANSWER: "bail"
       },
       {
-        SUBJECT: "lt. 3. Meteorites",
+        SUBJECT: "Meteorites",
         QUESTION_CONTENTS: "Of the three broad classifications of meteorites, which applies to highly metallic ones?",
         ANSWER: "iron meteorites (siderites)"
       },
@@ -9331,7 +9326,7 @@ tree = {
         ANSWER: "Washington"
       },
       {
-        SUBJECT: "lt. 3. Africa",
+        SUBJECT: "Africa",
         QUESTION_CONTENTS: "These African cities are adjacent to what body of water?  Dakar, Freetown, Luanda, Rabat, Monrovia",
         ANSWER: "Atlantic Ocean"
       },
@@ -9346,7 +9341,7 @@ tree = {
         ANSWER: "North Carolina, South Carolina"
       },
       {
-        SUBJECT: "e Thunderstorms",
+        SUBJECT: "Thunderstorms",
         QUESTION_CONTENTS: "What noun describes the line of heavy thunderstorms that advances just ahead of a fast-moving cold front?",
         ANSWER: "squall"
       },
@@ -9676,7 +9671,7 @@ tree = {
         ANSWER: "Ecuador"
       },
       {
-        SUBJECT: "a Renaissance Scientists",
+        SUBJECT: "Renaissance Scientists",
         QUESTION_CONTENTS: "Leonardo da Vinci's aerial screw was a predecessor of what modern vehicle?",
         ANSWER: "helicopter"
       },
@@ -9801,7 +9796,7 @@ tree = {
         ANSWER: "crazed"
       },
       {
-        SUBJECT: "i Outlaws",
+        SUBJECT: "Outlaws",
         QUESTION_CONTENTS: "Billy the Kid's life of crime began in the territory that became what state?",
         ANSWER: "New Mexico"
       },
@@ -9911,7 +9906,7 @@ tree = {
         ANSWER: "mammal"
       },
       {
-        SUBJECT: "lt. 1. Jefferson",
+        SUBJECT: "Jefferson",
         QUESTION_CONTENTS: "Complete this line by Thomas Jefferson on the topic of agriculture.  In Europe, the object is to make the most of  their land, labor being abundant. Here, it is  to make the most of our labor, ...",
         ANSWER: "land being abundant"
       },
@@ -9986,7 +9981,7 @@ tree = {
         ANSWER: "St. Peter's"
       },
       {
-        SUBJECT: "a Sea Monsters",
+        SUBJECT: "Sea Monsters",
         QUESTION_CONTENTS: "Name the Jules Verne novel that opens with discussions of a mysterious monster gleaming with light that had sunk many vessels.",
         ANSWER: "20,000 Leagues Under the Sea"
       },
@@ -10086,7 +10081,7 @@ tree = {
         ANSWER: "Countries"
       },
       {
-        SUBJECT: "s Obituaries",
+        SUBJECT: "Obituaries",
         QUESTION_CONTENTS: "This is from whose obituary? Died, at Mount Vernon on Saturday evening, the widow of the late illustrious General George Washington. To those amiable and Christian virtues, which adorn the female character, the added dignity of manners, superiority of understanding, a mind intelligent and elevated, the silence of respectful grief is out best  eulogy",
         ANSWER: "Martha Washington"
       },
@@ -10096,7 +10091,7 @@ tree = {
         ANSWER: "agent (manager)"
       },
       {
-        SUBJECT: "a Mediterranean Isles",
+        SUBJECT: "Mediterranean Isles",
         QUESTION_CONTENTS: "Name the largest and most populous of the Greek islands.",
         ANSWER: "Crete"
       },
@@ -10196,7 +10191,7 @@ tree = {
         ANSWER: "spying (espionage)"
       },
       {
-        SUBJECT: "a Battles",
+        SUBJECT: "Battles",
         QUESTION_CONTENTS: "These were major engagements of what war that lasted from 1337 to 1453?  Crecy, Sluys, Agincourt, Calais, Poitiers",
         ANSWER: "Hundred Years' War"
       },
@@ -10281,7 +10276,7 @@ tree = {
         ANSWER: "biodegradable"
       },
       {
-        SUBJECT: "s Ruminants",
+        SUBJECT: "Ruminants",
         QUESTION_CONTENTS: "Food regurgitated from the first stomach to the mouth of a ruminant such as a giraffe, cow, or goat is the ...",
         ANSWER: "cud"
       },
@@ -10716,7 +10711,7 @@ tree = {
         ANSWER: "Nairobi"
       },
       {
-        SUBJECT: "is Ocean Explorers",
+        SUBJECT: "Ocean Explorers",
         QUESTION_CONTENTS: "These men explored what ocean? Abel Tasman George Vancouver Vitus Bering Francis Drake",
         ANSWER: "Pacific"
       },
@@ -10731,7 +10726,7 @@ tree = {
         ANSWER: "tap dancing"
       },
       {
-        SUBJECT: "is Elements",
+        SUBJECT: "Elements",
         QUESTION_CONTENTS: "Three is the atomic number of what element?",
         ANSWER: "lithium"
       },
@@ -10971,7 +10966,7 @@ tree = {
         ANSWER: "smallpox"
       },
       {
-        SUBJECT: "i Island Countries",
+        SUBJECT: "Island Countries",
         QUESTION_CONTENTS: "Which of the six smallest countries in Europe is a Mediterranean island?",
         ANSWER: "Malta"
       },
@@ -11041,7 +11036,7 @@ tree = {
         ANSWER: "protective custody"
       },
       {
-        SUBJECT: "is Grammatical Analysis",
+        SUBJECT: "Grammatical Analysis",
         QUESTION_CONTENTS: "What is the interrupter in this example? He replied, 'Anarchy, on the other hand, means no rule and no government and no future.'",
         ANSWER: "on the other hand"
       },
@@ -11136,7 +11131,7 @@ tree = {
         ANSWER: "Saskatchewan"
       },
       {
-        SUBJECT: "a State Histories",
+        SUBJECT: "State Histories",
         QUESTION_CONTENTS: "These names are associated with the history of what state?  Gerasim Pribilof  William H. Seward  Vitus Bering",
         ANSWER: "Alaska"
       },
@@ -11461,7 +11456,7 @@ tree = {
         ANSWER: "French and Indian (or Seven Years) War"
       },
       {
-        SUBJECT: "lt. 4. Weight Problems",
+        SUBJECT: "Weight Problems",
         QUESTION_CONTENTS: "The head of a giant mutant rat from Chernobyl makes up 25% of its weight while its tail comprises 12.5%. If the rest of this rat weighs 20 pounds, what is the total weight of this creature?",
         ANSWER: "32 pounds"
       },
@@ -11661,7 +11656,7 @@ tree = {
         ANSWER: "propaganda"
       },
       {
-        SUBJECT: "s Parasites",
+        SUBJECT: "Parasites",
         QUESTION_CONTENTS: "While endoparasites live inside their hosts, what kind of parasites live on the surface of their hosts?",
         ANSWER: "ectoparasites"
       },
@@ -11736,7 +11731,7 @@ tree = {
         ANSWER: "had neither badge?"
       },
       {
-        SUBJECT: "lt. 3. Glaciation",
+        SUBJECT: "Glaciation",
         QUESTION_CONTENTS: "Name the glacial deposit of till that resembles the silhouette of a beached whale.",
         ANSWER: "drumlin"
       },
@@ -11796,7 +11791,7 @@ tree = {
         ANSWER: "samurai"
       },
       {
-        SUBJECT: "lt. 1. Alliances",
+        SUBJECT: "Alliances",
         QUESTION_CONTENTS: "During World War I, the Triple Alliance consisted of Germany, Austria-Hungary, and Italy. At the same time, the Triple Entente consisted of Great Britain and what two other nations?",
         ANSWER: "France, Russia"
       },
@@ -11806,7 +11801,7 @@ tree = {
         ANSWER: "corona"
       },
       {
-        SUBJECT: "i Tense",
+        SUBJECT: "Tense",
         QUESTION_CONTENTS: "These lines illustrate what tense? Milt does not contribute much to the company. He does work occasionally. He does not call in sick very often.",
         ANSWER: "present emphatic"
       },
@@ -11856,7 +11851,7 @@ tree = {
         ANSWER: "action"
       },
       {
-        SUBJECT: "is Salutations",
+        SUBJECT: "Salutations",
         QUESTION_CONTENTS: "Correct this salutation from a business letter. Dr. Marilynn Frazier, M.D.",
         ANSWER: "eliminate Dr. or M.D."
       },
@@ -11896,7 +11891,7 @@ tree = {
         ANSWER: "Benjamin Franklin"
       },
       {
-        SUBJECT: "is Aerodynamics",
+        SUBJECT: "Aerodynamics",
         QUESTION_CONTENTS: "The sudden and sharp increase in aerodynamic drag experienced by aircraft as they approach the speed of sound is called the ...",
         ANSWER: "sound barrier"
       },
@@ -11931,7 +11926,7 @@ tree = {
         ANSWER: "secretary of labor"
       },
       {
-        SUBJECT: "is Multiples",
+        SUBJECT: "Multiples",
         QUESTION_CONTENTS: "What is the least common multiple of 24 and 36?",
         ANSWER: "72"
       },
@@ -12106,7 +12101,7 @@ tree = {
         ANSWER: "triangular trade"
       },
       {
-        SUBJECT: "is Work Proportions",
+        SUBJECT: "Work Proportions",
         QUESTION_CONTENTS: "If it takes three aircraft mechanics twelve hours to install a new jet engine, how long would it take four aircraft mechanics to complete the same job?",
         ANSWER: "nine hours"
       },
@@ -12191,7 +12186,7 @@ tree = {
         ANSWER: "Virginia, Maryland"
       },
       {
-        SUBJECT: "is Word Problems",
+        SUBJECT: "Word Problems",
         QUESTION_CONTENTS: "One number is three times another and their sum is 48. Find the numbers.",
         ANSWER: "12, 36"
       },
@@ -12491,7 +12486,7 @@ tree = {
         ANSWER: "testimonial"
       },
       {
-        SUBJECT: "Ts Footnotes",
+        SUBJECT: "Footnotes",
         QUESTION_CONTENTS: "In this example footnote, which words should be in quotation marks?  Mars Observer - Call Home, Miami Herald,  18 December 1993, p. 22.",
         ANSWER: "Mars Observer - Call Home"
       },
@@ -12521,7 +12516,7 @@ tree = {
         ANSWER: "Jordan River"
       },
       {
-        SUBJECT: "lt. 5. Drainages",
+        SUBJECT: "Drainages",
         QUESTION_CONTENTS: "Name the largest watershed of the Pacific Northwest.",
         ANSWER: "Columbia River watershed"
       },
@@ -12936,7 +12931,7 @@ tree = {
         ANSWER: "Nazi (National Socialist)"
       },
       {
-        SUBJECT: "e Ancient Literature",
+        SUBJECT: "Ancient Literature",
         QUESTION_CONTENTS: "What Greek writer is responsible for these sayings? -Appearances are often deceiving. -Flatterers are not to be trusted. -An old trick may be played once too often. -Any fool can despise what he cannot get. -One good turn deserves another.",
         ANSWER: "Aesop"
       },
@@ -12976,7 +12971,7 @@ tree = {
         ANSWER: "boom"
       },
       {
-        SUBJECT: "a Water",
+        SUBJECT: "Water",
         QUESTION_CONTENTS: "How many atoms of hydrogen are in two molecules o",
         ANSWER: "water?"
       },
@@ -13196,7 +13191,7 @@ tree = {
         ANSWER: "living fossils"
       },
       {
-        SUBJECT: "e Government",
+        SUBJECT: "Government",
         QUESTION_CONTENTS: "What is the general term for a level of government smaller than a U.S. state?",
         ANSWER: "local government"
       },
@@ -13581,7 +13576,7 @@ tree = {
         ANSWER: "methane"
       },
       {
-        SUBJECT: "lt. 4. Constellations",
+        SUBJECT: "Constellations",
         QUESTION_CONTENTS: "Which constellation is the Herdsman?",
         ANSWER: "Bootes"
       },
@@ -13756,7 +13751,7 @@ tree = {
         ANSWER: "California"
       },
       {
-        SUBJECT: "s Pressure",
+        SUBJECT: "Pressure",
         QUESTION_CONTENTS: "A not-so-fair maiden weighs 280 pounds. The area of her ballet slippers in contact with the ground totals 40 square inches. In pounds per square inch, what is her total pressure on the ground?",
         ANSWER: "7 |b. per sq. inch"
       },
@@ -13851,7 +13846,7 @@ tree = {
         ANSWER: "100 3/4 (or 100.75) volts"
       },
       {
-        SUBJECT: "is Photosynthesis",
+        SUBJECT: "Photosynthesis",
         QUESTION_CONTENTS: "Photosynthesis requires photosynthetic pigments, light energy, and raw materials including water and what gas?",
         ANSWER: "carbon dioxide"
       },
@@ -14126,7 +14121,7 @@ tree = {
         ANSWER: "decomposers"
       },
       {
-        SUBJECT: "lt. 1. Mottoes",
+        SUBJECT: "Mottoes",
         QUESTION_CONTENTS: "Who, according to Ralph Waldo Emerson, should you trust?",
         ANSWER: "thyself (yourself)"
       },
@@ -14186,7 +14181,7 @@ tree = {
         ANSWER: "Britain, France"
       },
       {
-        SUBJECT: "lt. 2. Equations",
+        SUBJECT: "Equations",
         QUESTION_CONTENTS: "What is x if 7/x = 1/5?",
         ANSWER: "35"
       },
@@ -14321,7 +14316,7 @@ tree = {
         ANSWER: "hemorrhage"
       },
       {
-        SUBJECT: "lt. 5. Mechanics",
+        SUBJECT: "Mechanics",
         QUESTION_CONTENTS: "If one gear has 60 teeth and another has 20, what is the gear ratio when these two gears are connected together?",
         ANSWER: "3 to 1 (or 1 to 3)"
       },
@@ -14721,7 +14716,7 @@ tree = {
         ANSWER: "Minotaur"
       },
       {
-        SUBJECT: "lt. 5. Marching Bands",
+        SUBJECT: "Marching Bands",
         QUESTION_CONTENTS: "What corps is a musical marching unit consisting of brass instruments, percussion instruments, and a color guard?",
         ANSWER: "drum and bugle corps"
       },
@@ -14911,7 +14906,7 @@ tree = {
         ANSWER: "flowers"
       },
       {
-        SUBJECT: "lt. 4. English Novels",
+        SUBJECT: "English Novels",
         QUESTION_CONTENTS: "In 'Lord of the Flies,' Piggy suffers from what respiratory disease?",
         ANSWER: "asthma"
       },
@@ -15021,7 +15016,7 @@ tree = {
         ANSWER: "troy system"
       },
       {
-        SUBJECT: "lt. 3. Classification Schemes",
+        SUBJECT: "Classification Schemes",
         QUESTION_CONTENTS: "What category used in the classification of organisms consists of several closely related genera?",
         ANSWER: "family"
       },
@@ -15206,7 +15201,7 @@ tree = {
         ANSWER: "whiplash"
       },
       {
-        SUBJECT: "lt. 1. Empires",
+        SUBJECT: "Empires",
         QUESTION_CONTENTS: "The most distant part of the Spanish Empire consisted of what major Pacific archipelago?",
         ANSWER: "Philippines"
       },
@@ -15701,7 +15696,7 @@ tree = {
         ANSWER: "green"
       },
       {
-        SUBJECT: "lt. 5. Measurers",
+        SUBJECT: "Measurers",
         QUESTION_CONTENTS: "What does an anthropometrist concentrate on measuring?",
         ANSWER: "human body (people, man)"
       },
@@ -15711,7 +15706,7 @@ tree = {
         ANSWER: "dendrite"
       },
       {
-        SUBJECT: "i Monsoons",
+        SUBJECT: "Monsoons",
         QUESTION_CONTENTS: "The monsoon wind pattern that brings seasonally heavy rain to southern Asia is believed to have started some 12 million years ago with the uplift of what mountain range?",
         ANSWER: "Himalayas"
       },
@@ -15901,7 +15896,7 @@ tree = {
         ANSWER: "Aborigines"
       },
       {
-        SUBJECT: "s Root Words",
+        SUBJECT: "Root Words",
         QUESTION_CONTENTS: "What is the meaning of the root word in these examples?  corporation, corpse, corpulent, corpuscle",
         ANSWER: "body"
       },
@@ -16011,7 +16006,7 @@ tree = {
         ANSWER: "Dragonwings"
       },
       {
-        SUBJECT: "lt. 4. On Government",
+        SUBJECT: "On Government",
         QUESTION_CONTENTS: "Complete this line by William Penn that illustrates antithesis.  If men be good, government cannot be ...",
         ANSWER: "bad"
       },
@@ -16031,7 +16026,7 @@ tree = {
         ANSWER: "chitin"
       },
       {
-        SUBJECT: "lt. 5. Exothermics",
+        SUBJECT: "Exothermics",
         QUESTION_CONTENTS: "Those involved in manufacturing fireworks are in what field?",
         ANSWER: "pyrotechnics"
       },
@@ -16221,7 +16216,7 @@ tree = {
         ANSWER: "Of His terrible swift sword"
       },
       {
-        SUBJECT: "lt. 3. Valleys",
+        SUBJECT: "Valleys",
         QUESTION_CONTENTS: "The Central Valley of California is between the Coast Ranges and what mountain range to the east?",
         ANSWER: "Sierra Nevada"
       },
@@ -16546,7 +16541,7 @@ tree = {
         ANSWER: "sharks"
       },
       {
-        SUBJECT: "lt. 1. Locus of Points",
+        SUBJECT: "Locus of Points",
         QUESTION_CONTENTS: "What is the locus of points equidistant from two parallel planes?",
         ANSWER: "a plane parallel to and midway between the planes"
       },
@@ -16671,12 +16666,12 @@ tree = {
         ANSWER: "counterpoint"
       },
       {
-        SUBJECT: "is Alcohol",
+        SUBJECT: "Alcohol",
         QUESTION_CONTENTS: "What kind of alcohol fuel is made from corn and sugar cane?",
         ANSWER: "ethanol"
       },
       {
-        SUBJECT: "s Rocks",
+        SUBJECT: "Rocks",
         QUESTION_CONTENTS: "Apache tears is one name for a dark and glassy igneous rock. Another name for this rock is ...",
         ANSWER: "obsidian"
       },
@@ -16796,7 +16791,7 @@ tree = {
         ANSWER: "Mohandas Gandhi"
       },
       {
-        SUBJECT: "lt. 4. Air Travel",
+        SUBJECT: "Air Travel",
         QUESTION_CONTENTS: "An airliner flying directly from Grand Rapids, Michigan to Ottawa, Ontario would fly over which Great Lake?",
         ANSWER: "Lake Huron"
       },
@@ -16826,7 +16821,7 @@ tree = {
         ANSWER: "amnesia"
       },
       {
-        SUBJECT: "lt. 4. Award Analogies",
+        SUBJECT: "Award Analogies",
         QUESTION_CONTENTS: "Broadway is to Tony as Hollywood is to what name?",
         ANSWER: "Oscar"
       },
@@ -16871,7 +16866,7 @@ tree = {
         ANSWER: "Golden Hind"
       },
       {
-        SUBJECT: "s Circles",
+        SUBJECT: "Circles",
         QUESTION_CONTENTS: "A sector of a circle is the region bounded by two radii and what arc?",
         ANSWER: "the intercepted arc"
       },
@@ -16941,7 +16936,7 @@ tree = {
         ANSWER: "Bach"
       },
       {
-        SUBJECT: "lt. 2. Physical Science",
+        SUBJECT: "Physical Science",
         QUESTION_CONTENTS: "What is the common term for this phenomenon? Rapid vaporization which disturbs a liquid and which occurs when the vapor pressure of the liquid equals the pressure on its surface.",
         ANSWER: "boiling"
       },
@@ -17216,7 +17211,7 @@ tree = {
         ANSWER: "knee"
       },
       {
-        SUBJECT: "i Ancient Traditions",
+        SUBJECT: "Ancient Traditions",
         QUESTION_CONTENTS: "The ancient Greeks often placed a coin in the mouth of a corpse to pay what ferryman to carry the soul across the River Styx?",
         ANSWER: "Charon"
       },
@@ -17586,7 +17581,7 @@ tree = {
         ANSWER: "Newfoundland"
       },
       {
-        SUBJECT: "is Paleontology",
+        SUBJECT: "Paleontology",
         QUESTION_CONTENTS: "The archaeopteryx is an ancestor of what kind of modern day animals?",
         ANSWER: "birds"
       },
@@ -17636,12 +17631,12 @@ tree = {
         ANSWER: "League of Nations"
       },
       {
-        SUBJECT: "is Military Forces",
+        SUBJECT: "Military Forces",
         QUESTION_CONTENTS: "The United States Army superceded what other army that was disbanded in 1784?",
         ANSWER: "Continental Army"
       },
       {
-        SUBJECT: "is Longitudes",
+        SUBJECT: "Longitudes",
         QUESTION_CONTENTS: "What is the three-word name for the imaginary line on the Earth's surface that joins the north and south poles and follows the 180 degree meridian through the Pacific Ocean?",
         ANSWER: "International Date Line"
       },
@@ -17716,7 +17711,7 @@ tree = {
         ANSWER: "religions (philosophies)"
       },
       {
-        SUBJECT: "lt. 3. Jelly",
+        SUBJECT: "Jelly",
         QUESTION_CONTENTS: "Name the coagulating substance in certain fruits used in making jelly.",
         ANSWER: "pectin"
       },
@@ -18026,12 +18021,12 @@ tree = {
         ANSWER: "$48,000"
       },
       {
-        SUBJECT: "lt. 3. Matrimony",
+        SUBJECT: "Matrimony",
         QUESTION_CONTENTS: "What are the first four words in the lyrics of Mendelssohn's 'Wedding March'?",
         ANSWER: "Here comes the bride."
       },
       {
-        SUBJECT: "s Oceans",
+        SUBJECT: "Oceans",
         QUESTION_CONTENTS: "Thanks to plate tectonics, which of the world's great oceans is slowly becoming smaller?",
         ANSWER: "Pacific Ocean"
       },
@@ -18431,7 +18426,7 @@ tree = {
         ANSWER: "weathering"
       },
       {
-        SUBJECT: "i Art Forms",
+        SUBJECT: "Art Forms",
         QUESTION_CONTENTS: "What is the name for works of art created with sticks of pigment and fillers mixed with gum and water, pressed and dried?",
         ANSWER: "pastels"
       },
@@ -18831,7 +18826,7 @@ tree = {
         ANSWER: "Pentagon"
       },
       {
-        SUBJECT: "e Doors",
+        SUBJECT: "Doors",
         QUESTION_CONTENTS: "What kind of door, invented in 1888, is always open and always closed?",
         ANSWER: "revolving door"
       },
@@ -18966,7 +18961,7 @@ tree = {
         ANSWER: "Annapolis"
       },
       {
-        SUBJECT: "lt. 2. Wayward Wishes",
+        SUBJECT: "Wayward Wishes",
         QUESTION_CONTENTS: "According to Edward Everett Hale, when Philip Nolan was convicted of treason, he stated that he never again wished to hear of what?",
         ANSWER: "the United States"
       },
@@ -19121,7 +19116,7 @@ tree = {
         ANSWER: "Nazi (National Socialist)"
       },
       {
-        SUBJECT: "s World War Il",
+        SUBJECT: "World War Il",
         QUESTION_CONTENTS: "In 1940, the U.S. agreed to send Britain 50 over-age destroyers in exchange for rights to construct bases in the West Indies. This marked the beginning of what agreement with the Allies?",
         ANSWER: "Lend-Lease"
       },
@@ -19361,7 +19356,7 @@ tree = {
         ANSWER: "seismogram"
       },
       {
-        SUBJECT: "is Turpentine",
+        SUBJECT: "Turpentine",
         QUESTION_CONTENTS: "Turpentine is manufactured from what complex substance secreted by plants?",
         ANSWER: "resin"
       },
@@ -19371,7 +19366,7 @@ tree = {
         ANSWER: "backdrop (backcloth)"
       },
       {
-        SUBJECT: "s Atom Nuclei",
+        SUBJECT: "Atom Nuclei",
         QUESTION_CONTENTS: "Each atomic nucleus consists of one or more protons and one or more neutrons, with the exception of what one element?",
         ANSWER: "hydrogen (or deuterium)"
       },
@@ -19566,7 +19561,7 @@ tree = {
         ANSWER: "sheep"
       },
       {
-        SUBJECT: "is Simplification",
+        SUBJECT: "Simplification",
         QUESTION_CONTENTS: "Simplify this expression. 3p - 6(4- Sp)",
         ANSWER: "33p - 24"
       },
@@ -19741,7 +19736,7 @@ tree = {
         ANSWER: "axis"
       },
       {
-        SUBJECT: "is Speed",
+        SUBJECT: "Speed",
         QUESTION_CONTENTS: "For a constant speed, distance equals velocity multiplied by time. Using the same quantities, what does time equal?",
         ANSWER: "distance divided by velocity"
       },
@@ -19806,7 +19801,7 @@ tree = {
         ANSWER: "invisible spectrum"
       },
       {
-        SUBJECT: "s The Sun",
+        SUBJECT: "The Sun",
         QUESTION_CONTENTS: "What is the term for that imaginary line where the Sun's rotation is fastest?",
         ANSWER: "equator"
       },
@@ -19816,7 +19811,7 @@ tree = {
         ANSWER: "Japan"
       },
       {
-        SUBJECT: "lt. 5. Dominance",
+        SUBJECT: "Dominance",
         QUESTION_CONTENTS: "In the midst of the Mesozoic era, the dominant life forms belonged to what taxonomic class?",
         ANSWER: "reptiles"
       },
@@ -19941,7 +19936,7 @@ tree = {
         ANSWER: "rectangle"
       },
       {
-        SUBJECT: "lt. 1. Faults",
+        SUBJECT: "Faults",
         QUESTION_CONTENTS: "Reverse faults are one of the two most common types of dip-slip faults. Name the other.",
         ANSWER: "normal faults"
       },
@@ -19976,7 +19971,7 @@ tree = {
         ANSWER: "Mohandas Gandhi"
       },
       {
-        SUBJECT: "is Logic",
+        SUBJECT: "Logic",
         QUESTION_CONTENTS: "Which of a pair of plump twins created by Lewis Carroll said this? If it was so, it might be, and , if it were so, it would be, but as it isn't, it ain't. That's logic.",
         ANSWER: "Tweedledee"
       },
@@ -20331,12 +20326,12 @@ tree = {
         ANSWER: "China, Mongolia"
       },
       {
-        SUBJECT: "lt. 4. Betrayals",
+        SUBJECT: "Betrayals",
         QUESTION_CONTENTS: "This is about an incident in what future state? General Thomas Jesup requested a truce conference, but when Osceola complied, he was treacherously taken captive and died in prison less than three months later.",
         ANSWER: "Florida"
       },
       {
-        SUBJECT: "lt. 4. Seasons",
+        SUBJECT: "Seasons",
         QUESTION_CONTENTS: "In the Northern Hemisphere, what season occurs between the summer solstice and the autumnal equinox?",
         ANSWER: "summer"
       },
@@ -20361,7 +20356,7 @@ tree = {
         ANSWER: "score"
       },
       {
-        SUBJECT: "s Old West Ballets",
+        SUBJECT: "Old West Ballets",
         QUESTION_CONTENTS: "Name Aaron Copland ballet with these sections. Gun Battle The Open Prairie Card Game at Night Street in Frontier Town Celebration After Billy's Capture",
         ANSWER: "Billy the Kid"
       },
@@ -20381,7 +20376,7 @@ tree = {
         ANSWER: "boycott"
       },
       {
-        SUBJECT: "lt. 2. Homophones",
+        SUBJECT: "Homophones",
         QUESTION_CONTENTS: "Spell the missing homophone in this analogy. While someone who is well known and highly regarded is eminent, an event that is about to take place is ...",
         ANSWER: "imminent"
       },
@@ -20476,7 +20471,7 @@ tree = {
         ANSWER: "Ohio"
       },
       {
-        SUBJECT: "lt. 2. Pronouns",
+        SUBJECT: "Pronouns",
         QUESTION_CONTENTS: "What type of singular pronoun is illustrated in this quip?  The closest anyone ever comes to perfection  is on a job application form.",
         ANSWER: "indefinite"
       },
@@ -20666,7 +20661,7 @@ tree = {
         ANSWER: "mantle"
       },
       {
-        SUBJECT: "is Areas of Triangles",
+        SUBJECT: "Areas of Triangles",
         QUESTION_CONTENTS: "A triangle has a height of 22 feet and a base of 9 feet. What is its area?",
         ANSWER: "99 square feet"
       },
@@ -20686,7 +20681,7 @@ tree = {
         ANSWER: "boll weevil"
       },
       {
-        SUBJECT: "s Hobbits",
+        SUBJECT: "Hobbits",
         QUESTION_CONTENTS: "The hobbit Bilbo Baggins lives at Bag End in what community?",
         ANSWER: "Hobbiton"
       },
@@ -20746,7 +20741,7 @@ tree = {
         ANSWER: "atmosphere"
       },
       {
-        SUBJECT: "lt. 3. Transportation Projects",
+        SUBJECT: "Transportation Projects",
         QUESTION_CONTENTS: "In 1817, digging began on the greatest American  construction project yet undertaken. What was being built?",
         ANSWER: "Erie Canal"
       },
@@ -20761,7 +20756,7 @@ tree = {
         ANSWER: "sextant"
       },
       {
-        SUBJECT: "a The Ocean Floor",
+        SUBJECT: "The Ocean Floor",
         QUESTION_CONTENTS: "Seamounts are most prevalent in which ocean?",
         ANSWER: "Pacific"
       },
@@ -21426,7 +21421,7 @@ tree = {
         ANSWER: "465 degrees"
       },
       {
-        SUBJECT: "is Mongolians",
+        SUBJECT: "Mongolians",
         QUESTION_CONTENTS: "Tamerlane was a descendant of what earlier Mongol conqueror?",
         ANSWER: "Genghis Khan (or Kublai Khan)"
       },
@@ -21636,7 +21631,7 @@ tree = {
         ANSWER: "Boston Massacre"
       },
       {
-        SUBJECT: "is Settings",
+        SUBJECT: "Settings",
         QUESTION_CONTENTS: "From certain root words in this line by Robert  Heinlein, you can tell the story is set where? I see in 'Lunaya Pravda' that Luna City Council has passed on first reading a bill to examine, license, inspect, and tax, public food vendors operating inside municipal pressure.",
         ANSWER: "Moon"
       },
@@ -21676,7 +21671,7 @@ tree = {
         ANSWER: "17"
       },
       {
-        SUBJECT: "lt. 5. Reasoning",
+        SUBJECT: "Reasoning",
         QUESTION_CONTENTS: "While deductions from correct premises are always 100% probable, with what category of reasoning are the conclusions always less than 100% probable?",
         ANSWER: "induction"
       },
@@ -21716,7 +21711,7 @@ tree = {
         ANSWER: "Big Ben"
       },
       {
-        SUBJECT: "lt. 2. Settings",
+        SUBJECT: "Settings",
         QUESTION_CONTENTS: "These novels are all partly set in what country? Climbing the Pyramid Tampico Gold Mission in Cancun Four Days to Veracruz",
         ANSWER: "Mexico"
       },
@@ -21771,7 +21766,7 @@ tree = {
         ANSWER: "penitentiary"
       },
       {
-        SUBJECT: "i Scales",
+        SUBJECT: "Scales",
         QUESTION_CONTENTS: "The pH scale expresses either the acidity of a solution or its ...",
         ANSWER: "alkalinity (or neutrality)"
       },
@@ -21956,7 +21951,7 @@ tree = {
         ANSWER: "ampere (amp)"
       },
       {
-        SUBJECT: "a Twisted Tales",
+        SUBJECT: "Twisted Tales",
         QUESTION_CONTENTS: "In what story by O. Henry do Bill and Sam discover that the boy they have kidnapped is such a terror that they actually have to pay the father to take the kid back?",
         ANSWER: "The Ransom of Red Chief"
       },
@@ -21996,7 +21991,7 @@ tree = {
         ANSWER: "---- inches."
       },
       {
-        SUBJECT: "a Force",
+        SUBJECT: "Force",
         QUESTION_CONTENTS: "You are swinging a ball on the end of a string around your head. At the instant the string breaks, what kind of force is no longer exerted on the ball?",
         ANSWER: "centripetal"
       },
@@ -22356,7 +22351,7 @@ tree = {
         ANSWER: "Sputnik"
       },
       {
-        SUBJECT: "i Mexico",
+        SUBJECT: "Mexico",
         QUESTION_CONTENTS: "The Mexican states of Chiapas, Tabasco, and Campeche are adjacent to what Central American country?",
         ANSWER: "Guatemala"
       },
@@ -22541,7 +22536,7 @@ tree = {
         ANSWER: "extinction"
       },
       {
-        SUBJECT: "lt. 2. Lofty Sites",
+        SUBJECT: "Lofty Sites",
         QUESTION_CONTENTS: "In what country is the Kathmandu Valley World Heritage Site located?",
         ANSWER: "Nepal"
       },
@@ -22656,7 +22651,7 @@ tree = {
         ANSWER: "reversal"
       },
       {
-        SUBJECT: "lt. 3. Runoff",
+        SUBJECT: "Runoff",
         QUESTION_CONTENTS: "Approximately half the land area of the contiguous 48 states is in the drainage basin of what river?",
         ANSWER: "Mississippi"
       },
@@ -22791,7 +22786,7 @@ tree = {
         ANSWER: "mosques"
       },
       {
-        SUBJECT: "i Adventure Novels",
+        SUBJECT: "Adventure Novels",
         QUESTION_CONTENTS: "In Eric Campbell's novel, 'Place of Lions,' an airplane crashes in what vast Tanzanian plain west of the Great Rift Valley?",
         ANSWER: "Serengeti"
       },
@@ -22841,7 +22836,7 @@ tree = {
         ANSWER: "The Legend of Sleepy Hollow"
       },
       {
-        SUBJECT: "i Latin Phrases",
+        SUBJECT: "Latin Phrases",
         QUESTION_CONTENTS: "When would a 'post mortem' examination be conducted on Phileas Vanderslumgullion?",
         ANSWER: "after his death"
       },
@@ -22896,7 +22891,7 @@ tree = {
         ANSWER: "48"
       },
       {
-        SUBJECT: "lt. 2. Experiments",
+        SUBJECT: "Experiments",
         QUESTION_CONTENTS: "By arbitrary agreement, the graph of the dependent variable in an experiment is plotted on which axis?",
         ANSWER: "y-axis (ordinate)"
       },
@@ -23006,7 +23001,7 @@ tree = {
         ANSWER: "Thor"
       },
       {
-        SUBJECT: "i Voltaire on Government",
+        SUBJECT: "Voltaire on Government",
         QUESTION_CONTENTS: "What predicate adjective completes this thought by Voltaire? It is dangerous to be right in matters on which the established authorities are ...",
         ANSWER: "wrong"
       },
@@ -23196,7 +23191,7 @@ tree = {
         ANSWER: "periodicity"
       },
       {
-        SUBJECT: "lt. 1. Sets",
+        SUBJECT: "Sets",
         QUESTION_CONTENTS: "What kind of mathematical set is the set of multiples of 31?",
         ANSWER: "infinite set"
       },
@@ -23276,12 +23271,12 @@ tree = {
         ANSWER: "Judy Blume"
       },
       {
-        SUBJECT: "lt. 1. Federal Departments",
+        SUBJECT: "Federal Departments",
         QUESTION_CONTENTS: "Federal programs providing services to farmers are administered by what U.S. executive department?",
         ANSWER: "Department of Agriculture"
       },
       {
-        SUBJECT: "lt. 5. Barometers",
+        SUBJECT: "Barometers",
         QUESTION_CONTENTS: "What kind of barometer contains metal that shrinks  when air pressure rises and expands when air pressure falls?",
         ANSWER: "aneroid barometer"
       },
@@ -23351,7 +23346,7 @@ tree = {
         ANSWER: "Salem"
       },
       {
-        SUBJECT: "lt. 2. Genetic Traits",
+        SUBJECT: "Genetic Traits",
         QUESTION_CONTENTS: "Ralphie has a dominant gene which causes his skin to produce an uneven pattern of protective melanin pigment when exposed to the Sun. Name this skin condition.",
         ANSWER: "freckles"
       },
@@ -23426,7 +23421,7 @@ tree = {
         ANSWER: "They have the least seniority."
       },
       {
-        SUBJECT: "lt. 5. Zeal",
+        SUBJECT: "Zeal",
         QUESTION_CONTENTS: "What topic is missing in this passage? During the day and night I talked much with John Brown, and found him as brave as a man could be, and sensible upon all subjects except ----, upon which he was a religious fanatic.",
         ANSWER: "slavery"
       },
@@ -23601,7 +23596,7 @@ tree = {
         ANSWER: "second person"
       },
       {
-        SUBJECT: "lt. 1. Boiling Points",
+        SUBJECT: "Boiling Points",
         QUESTION_CONTENTS: "Water boils at the lowest temperature at the top of what mountain in the United States?",
         ANSWER: "Mt. McKinley (Denali)"
       },
@@ -23691,7 +23686,7 @@ tree = {
         ANSWER: "Greenland"
       },
       {
-        SUBJECT: "a Scientists",
+        SUBJECT: "Scientists",
         QUESTION_CONTENTS: "He lost an eye in an explosion, took up organic chemistry, and went on to develop the field of spectroscopy. Name this German chemist after whom laboratory burners were named.",
         ANSWER: "Robert Bunsen"
       },
@@ -23836,7 +23831,7 @@ tree = {
         ANSWER: "Iran"
       },
       {
-        SUBJECT: "a The Cold War",
+        SUBJECT: "The Cold War",
         QUESTION_CONTENTS: "What symbol is indicated below? In the fall of 1989, the most visible symbol of the Cold War was chipped away piece by piece by a joyful population determined to end the politically enforced partition of their country.",
         ANSWER: "Berlin Wall"
       },
@@ -24116,7 +24111,7 @@ tree = {
         ANSWER: "circus"
       },
       {
-        SUBJECT: "s Forms of Drama",
+        SUBJECT: "Forms of Drama",
         QUESTION_CONTENTS: "What is the phrase for a serialized melodrama for daytime television?",
         ANSWER: "soap opera (soap)"
       },
@@ -24296,7 +24291,7 @@ tree = {
         ANSWER: "shorter"
       },
       {
-        SUBJECT: "lt. 2. Legends in Song",
+        SUBJECT: "Legends in Song",
         QUESTION_CONTENTS: "This is a verse from a song about what legendary being? So over I jumped and she pulled me down, down to her seaweed bed, / A pillow made of tortoise-shell she placed beneath my head, / She fed me shrimp and caviar upon a silver dish / From her head to her waist was just to my taste but the rest of her was a fish.",
         ANSWER: "mermaid"
       },
@@ -24721,7 +24716,7 @@ tree = {
         ANSWER: "cooling"
       },
       {
-        SUBJECT: "lt. 3. Evolution",
+        SUBJECT: "Evolution",
         QUESTION_CONTENTS: "The Asian jerboa, the North American kangaroo rat, and the Australian hopping mouse evolved similar adaptations for hot desert environments such as large hind legs, thin tails, and bipedal leaping. This illustrates what kind of evolution?",
         ANSWER: "convergent evolution"
       },
@@ -24791,7 +24786,7 @@ tree = {
         ANSWER: "electrical, mechanical"
       },
       {
-        SUBJECT: "a Nuclear Powers",
+        SUBJECT: "Nuclear Powers",
         QUESTION_CONTENTS: "Name either country adjacent to the Arabian Sea that definitely has atomic weapons.",
         ANSWER: "Pakistan, India"
       },
@@ -24811,7 +24806,7 @@ tree = {
         ANSWER: "O'er the land of the free"
       },
       {
-        SUBJECT: "lt. 4. Fields of Science",
+        SUBJECT: "Fields of Science",
         QUESTION_CONTENTS: "A person interested in Rossby waves and Hadley cells is probably in what field of science?",
         ANSWER: "meteorology"
       },
@@ -24941,7 +24936,7 @@ tree = {
         ANSWER: "undertow"
       },
       {
-        SUBJECT: "lt. 2. State Borders",
+        SUBJECT: "State Borders",
         QUESTION_CONTENTS: "To its west, Idaho borders what states?",
         ANSWER: "Oregon, Washington"
       },
@@ -24966,7 +24961,7 @@ tree = {
         ANSWER: "nunnery"
       },
       {
-        SUBJECT: "e Dickens",
+        SUBJECT: "Dickens",
         QUESTION_CONTENTS: "What character in 'Great Expectations' teaches her adopted daughter to hate men?",
         ANSWER: "Miss Havisham"
       },
@@ -25126,7 +25121,7 @@ tree = {
         ANSWER: "Los Angeles"
       },
       {
-        SUBJECT: "lt. 3. Meteorites",
+        SUBJECT: "Meteorites",
         QUESTION_CONTENTS: "Of the three broad classifications of meteorites, which applies to highly metallic ones?",
         ANSWER: "iron meteorites (siderites)"
       },
@@ -25186,7 +25181,7 @@ tree = {
         ANSWER: "Washington"
       },
       {
-        SUBJECT: "lt. 3. Africa",
+        SUBJECT: "Africa",
         QUESTION_CONTENTS: "These African cities are adjacent to what body of water?  Dakar, Freetown, Luanda, Rabat, Monrovia",
         ANSWER: "Atlantic Ocean"
       },
@@ -25401,7 +25396,7 @@ tree = {
         ANSWER: "Ecuador"
       },
       {
-        SUBJECT: "a Renaissance Scientists",
+        SUBJECT: "Renaissance Scientists",
         QUESTION_CONTENTS: "Leonardo da Vinci's aerial screw was a predecessor of what modern vehicle?",
         ANSWER: "helicopter"
       },
@@ -25496,7 +25491,7 @@ tree = {
         ANSWER: "crazed"
       },
       {
-        SUBJECT: "i Outlaws",
+        SUBJECT: "Outlaws",
         QUESTION_CONTENTS: "Billy the Kid's life of crime began in the territory that became what state?",
         ANSWER: "New Mexico"
       },
@@ -25556,7 +25551,7 @@ tree = {
         ANSWER: "mammal"
       },
       {
-        SUBJECT: "lt. 1. Jefferson",
+        SUBJECT: "Jefferson",
         QUESTION_CONTENTS: "Complete this line by Thomas Jefferson on the topic of agriculture.  In Europe, the object is to make the most of  their land, labor being abundant. Here, it is  to make the most of our labor, ...",
         ANSWER: "land being abundant"
       },
@@ -25611,7 +25606,7 @@ tree = {
         ANSWER: "St. Peter's"
       },
       {
-        SUBJECT: "a Sea Monsters",
+        SUBJECT: "Sea Monsters",
         QUESTION_CONTENTS: "Name the Jules Verne novel that opens with discussions of a mysterious monster gleaming with light that had sunk many vessels.",
         ANSWER: "20,000 Leagues Under the Sea"
       },
@@ -25671,7 +25666,7 @@ tree = {
         ANSWER: "Countries"
       },
       {
-        SUBJECT: "s Obituaries",
+        SUBJECT: "Obituaries",
         QUESTION_CONTENTS: "This is from whose obituary? Died, at Mount Vernon on Saturday evening, the widow of the late illustrious General George Washington. To those amiable and Christian virtues, which adorn the female character, the added dignity of manners, superiority of understanding, a mind intelligent and elevated, the silence of respectful grief is out best  eulogy",
         ANSWER: "Martha Washington"
       },
@@ -25681,7 +25676,7 @@ tree = {
         ANSWER: "agent (manager)"
       },
       {
-        SUBJECT: "a Mediterranean Isles",
+        SUBJECT: "Mediterranean Isles",
         QUESTION_CONTENTS: "Name the largest and most populous of the Greek islands.",
         ANSWER: "Crete"
       },
@@ -25781,7 +25776,7 @@ tree = {
         ANSWER: "Muses"
       },
       {
-        SUBJECT: "s Ruminants",
+        SUBJECT: "Ruminants",
         QUESTION_CONTENTS: "Food regurgitated from the first stomach to the mouth of a ruminant such as a giraffe, cow, or goat is the ...",
         ANSWER: "cud"
       },
@@ -26206,7 +26201,7 @@ tree = {
         ANSWER: "protective custody"
       },
       {
-        SUBJECT: "is Grammatical Analysis",
+        SUBJECT: "Grammatical Analysis",
         QUESTION_CONTENTS: "What is the interrupter in this example? He replied, 'Anarchy, on the other hand, means no rule and no government and no future.'",
         ANSWER: "on the other hand"
       },
@@ -26456,7 +26451,7 @@ tree = {
         ANSWER: "French and Indian (or Seven Years) War"
       },
       {
-        SUBJECT: "lt. 4. Weight Problems",
+        SUBJECT: "Weight Problems",
         QUESTION_CONTENTS: "The head of a giant mutant rat from Chernobyl makes up 25% of its weight while its tail comprises 12.5%. If the rest of this rat weighs 20 pounds, what is the total weight of this creature?",
         ANSWER: "32 pounds"
       },
@@ -26581,7 +26576,7 @@ tree = {
         ANSWER: "propaganda"
       },
       {
-        SUBJECT: "s Parasites",
+        SUBJECT: "Parasites",
         QUESTION_CONTENTS: "While endoparasites live inside their hosts, what kind of parasites live on the surface of their hosts?",
         ANSWER: "ectoparasites"
       },
@@ -26621,7 +26616,7 @@ tree = {
         ANSWER: "had neither badge?"
       },
       {
-        SUBJECT: "lt. 3. Glaciation",
+        SUBJECT: "Glaciation",
         QUESTION_CONTENTS: "Name the glacial deposit of till that resembles the silhouette of a beached whale.",
         ANSWER: "drumlin"
       },
@@ -26656,12 +26651,12 @@ tree = {
         ANSWER: "samurai"
       },
       {
-        SUBJECT: "lt. 1. Alliances",
+        SUBJECT: "Alliances",
         QUESTION_CONTENTS: "During World War I, the Triple Alliance consisted of Germany, Austria-Hungary, and Italy. At the same time, the Triple Entente consisted of Great Britain and what two other nations?",
         ANSWER: "France, Russia"
       },
       {
-        SUBJECT: "i Tense",
+        SUBJECT: "Tense",
         QUESTION_CONTENTS: "These lines illustrate what tense? Milt does not contribute much to the company. He does work occasionally. He does not call in sick very often.",
         ANSWER: "present emphatic"
       },
@@ -26701,7 +26696,7 @@ tree = {
         ANSWER: "action"
       },
       {
-        SUBJECT: "is Salutations",
+        SUBJECT: "Salutations",
         QUESTION_CONTENTS: "Correct this salutation from a business letter. Dr. Marilynn Frazier, M.D.",
         ANSWER: "eliminate Dr. or M.D."
       },
@@ -26876,7 +26871,7 @@ tree = {
         ANSWER: "Virginia, Maryland"
       },
       {
-        SUBJECT: "is Word Problems",
+        SUBJECT: "Word Problems",
         QUESTION_CONTENTS: "One number is three times another and their sum is 48. Find the numbers.",
         ANSWER: "12, 36"
       },
@@ -27056,7 +27051,7 @@ tree = {
         ANSWER: "marionette"
       },
       {
-        SUBJECT: "Ts Footnotes",
+        SUBJECT: "Footnotes",
         QUESTION_CONTENTS: "In this example footnote, which words should be in quotation marks?  Mars Observer - Call Home, Miami Herald,  18 December 1993, p. 22.",
         ANSWER: "Mars Observer - Call Home"
       },
@@ -27081,7 +27076,7 @@ tree = {
         ANSWER: "Jordan River"
       },
       {
-        SUBJECT: "Alt. 5. Drainages",
+        SUBJECT: "ADrainages",
         QUESTION_CONTENTS: "Name the largest watershed of the Pacific Northwest.",
         ANSWER: "Columbia River watershed"
       },
@@ -27316,7 +27311,7 @@ tree = {
         ANSWER: "Nazi (National Socialist)"
       },
       {
-        SUBJECT: "e Ancient Literature",
+        SUBJECT: "Ancient Literature",
         QUESTION_CONTENTS: "What Greek writer is responsible for these sayings? -Appearances are often deceiving. -Flatterers are not to be trusted. -An old trick may be played once too often. -Any fool can despise what he cannot get. -One good turn deserves another.",
         ANSWER: "Aesop"
       },
@@ -27336,7 +27331,7 @@ tree = {
         ANSWER: "boom"
       },
       {
-        SUBJECT: "a Water",
+        SUBJECT: "Water",
         QUESTION_CONTENTS: "How many atoms of hydrogen are in two molecules o",
         ANSWER: "water?"
       },
@@ -27461,7 +27456,7 @@ tree = {
         ANSWER: "helmsman (quartermaster, wheelman)"
       },
       {
-        SUBJECT: "e Government",
+        SUBJECT: "Government",
         QUESTION_CONTENTS: "What is the general term for a level of government smaller than a U.S. state?",
         ANSWER: "local government"
       },
@@ -27711,7 +27706,7 @@ tree = {
         ANSWER: "methane"
       },
       {
-        SUBJECT: "lt. 4. Constellations",
+        SUBJECT: "Constellations",
         QUESTION_CONTENTS: "Which constellation is the Herdsman?",
         ANSWER: "Bootes"
       },
@@ -27806,7 +27801,7 @@ tree = {
         ANSWER: "California"
       },
       {
-        SUBJECT: "s Pressure",
+        SUBJECT: "Pressure",
         QUESTION_CONTENTS: "A not-so-fair maiden weighs 280 pounds. The area of her ballet slippers in contact with the ground totals 40 square inches. In pounds per square inch, what is her total pressure on the ground?",
         ANSWER: "7 |b. per sq. inch"
       },
@@ -27856,7 +27851,7 @@ tree = {
         ANSWER: "100 3/4 (or 100.75) volts"
       },
       {
-        SUBJECT: "is Photosynthesis",
+        SUBJECT: "Photosynthesis",
         QUESTION_CONTENTS: "Photosynthesis requires photosynthetic pigments, light energy, and raw materials including water and what gas?",
         ANSWER: "carbon dioxide"
       },
@@ -28041,7 +28036,7 @@ tree = {
         ANSWER: "decomposers"
       },
       {
-        SUBJECT: "lt. 1. Mottoes",
+        SUBJECT: "Mottoes",
         QUESTION_CONTENTS: "Who, according to Ralph Waldo Emerson, should you trust?",
         ANSWER: "thyself (yourself)"
       },
@@ -28086,7 +28081,7 @@ tree = {
         ANSWER: "Britain, France"
       },
       {
-        SUBJECT: "lt. 2. Equations",
+        SUBJECT: "Equations",
         QUESTION_CONTENTS: "What is x if 7/x = 1/5?",
         ANSWER: "35"
       },
@@ -28176,7 +28171,7 @@ tree = {
         ANSWER: "acre-foot"
       },
       {
-        SUBJECT: "lt. 5. Mechanics",
+        SUBJECT: "Mechanics",
         QUESTION_CONTENTS: "If one gear has 60 teeth and another has 20, what is the gear ratio when these two gears are connected together?",
         ANSWER: "3 to 1 (or 1 to 3)"
       },
@@ -28426,7 +28421,7 @@ tree = {
         ANSWER: "Minotaur"
       },
       {
-        SUBJECT: "lt. 5. Marching Bands",
+        SUBJECT: "Marching Bands",
         QUESTION_CONTENTS: "What corps is a musical marching unit consisting of brass instruments, percussion instruments, and a color guard?",
         ANSWER: "drum and bugle corps"
       },
@@ -28556,7 +28551,7 @@ tree = {
         ANSWER: "flowers"
       },
       {
-        SUBJECT: "lt. 4. English Novels",
+        SUBJECT: "English Novels",
         QUESTION_CONTENTS: "In 'Lord of the Flies,' Piggy suffers from what respiratory disease?",
         ANSWER: "asthma"
       },
@@ -28611,7 +28606,7 @@ tree = {
         ANSWER: "binary stars (pairs of stars)"
       },
       {
-        SUBJECT: "lt. 3. Classification Schemes",
+        SUBJECT: "Classification Schemes",
         QUESTION_CONTENTS: "What category used in the classification of organisms consists of several closely related genera?",
         ANSWER: "family"
       },
@@ -28736,7 +28731,7 @@ tree = {
         ANSWER: "whiplash"
       },
       {
-        SUBJECT: "lt. 1. Empires",
+        SUBJECT: "Empires",
         QUESTION_CONTENTS: "The most distant part of the Spanish Empire consisted of what major Pacific archipelago?",
         ANSWER: "Philippines"
       },
@@ -29051,7 +29046,7 @@ tree = {
         ANSWER: "pearl"
       },
       {
-        SUBJECT: "lt. 5. Measurers",
+        SUBJECT: "Measurers",
         QUESTION_CONTENTS: "What does an anthropometrist concentrate on measuring?",
         ANSWER: "human body (people, man)"
       },
@@ -29061,7 +29056,7 @@ tree = {
         ANSWER: "dendrite"
       },
       {
-        SUBJECT: "i Monsoons",
+        SUBJECT: "Monsoons",
         QUESTION_CONTENTS: "The monsoon wind pattern that brings seasonally heavy rain to southern Asia is believed to have started some 12 million years ago with the uplift of what mountain range?",
         ANSWER: "Himalayas"
       },
@@ -29181,7 +29176,7 @@ tree = {
         ANSWER: "beetles (Coleoptera)"
       },
       {
-        SUBJECT: "s Root Words",
+        SUBJECT: "Root Words",
         QUESTION_CONTENTS: "What is the meaning of the root word in these examples?  corporation, corpse, corpulent, corpuscle",
         ANSWER: "body"
       },
@@ -29241,7 +29236,7 @@ tree = {
         ANSWER: "Dragonwings"
       },
       {
-        SUBJECT: "lt. 4. On Government",
+        SUBJECT: "On Government",
         QUESTION_CONTENTS: "Complete this line by William Penn that illustrates antithesis.  If men be good, government cannot be ...",
         ANSWER: "bad"
       },
@@ -29256,7 +29251,7 @@ tree = {
         ANSWER: "chitin"
       },
       {
-        SUBJECT: "lt. 5. Exothermics",
+        SUBJECT: "Exothermics",
         QUESTION_CONTENTS: "Those involved in manufacturing fireworks are in what field?",
         ANSWER: "pyrotechnics"
       },
@@ -29361,7 +29356,7 @@ tree = {
         ANSWER: "epitaph"
       },
       {
-        SUBJECT: "lt. 3. Valleys",
+        SUBJECT: "Valleys",
         QUESTION_CONTENTS: "The Central Valley of California is between the Coast Ranges and what mountain range to the east?",
         ANSWER: "Sierra Nevada"
       },
@@ -29586,7 +29581,7 @@ tree = {
         ANSWER: "as how many amp-hours?"
       },
       {
-        SUBJECT: "lt. 1. Locus of Points",
+        SUBJECT: "Locus of Points",
         QUESTION_CONTENTS: "What is the locus of points equidistant from two parallel planes?",
         ANSWER: "a plane parallel to and midway between the planes"
       },
@@ -29661,7 +29656,7 @@ tree = {
         ANSWER: "the Louvre"
       },
       {
-        SUBJECT: "s Rocks",
+        SUBJECT: "Rocks",
         QUESTION_CONTENTS: "Apache tears is one name for a dark and glassy igneous rock. Another name for this rock is ...",
         ANSWER: "obsidian"
       },
@@ -29746,7 +29741,7 @@ tree = {
         ANSWER: "Mohandas Gandhi"
       },
       {
-        SUBJECT: "lt. 4. Air Travel",
+        SUBJECT: "Air Travel",
         QUESTION_CONTENTS: "An airliner flying directly from Grand Rapids, Michigan to Ottawa, Ontario would fly over which Great Lake?",
         ANSWER: "Lake Huron"
       },
@@ -29766,7 +29761,7 @@ tree = {
         ANSWER: "pressure cooker"
       },
       {
-        SUBJECT: "lt. 4. Award Analogies",
+        SUBJECT: "Award Analogies",
         QUESTION_CONTENTS: "Broadway is to Tony as Hollywood is to what name?",
         ANSWER: "Oscar"
       },
@@ -29841,7 +29836,7 @@ tree = {
         ANSWER: "Bach"
       },
       {
-        SUBJECT: "lt. 2. Physical Science",
+        SUBJECT: "Physical Science",
         QUESTION_CONTENTS: "What is the common term for this phenomenon? Rapid vaporization which disturbs a liquid and which occurs when the vapor pressure of the liquid equals the pressure on its surface.",
         ANSWER: "boiling"
       },
@@ -30021,7 +30016,7 @@ tree = {
         ANSWER: "fossil fuels"
       },
       {
-        SUBJECT: "i Ancient Traditions",
+        SUBJECT: "Ancient Traditions",
         QUESTION_CONTENTS: "The ancient Greeks often placed a coin in the mouth of a corpse to pay what ferryman to carry the soul across the River Styx?",
         ANSWER: "Charon"
       },
@@ -30231,7 +30226,7 @@ tree = {
         ANSWER: "Newfoundland"
       },
       {
-        SUBJECT: "is Paleontology",
+        SUBJECT: "Paleontology",
         QUESTION_CONTENTS: "The archaeopteryx is an ancestor of what kind of modern day animals?",
         ANSWER: "birds"
       },
@@ -30271,7 +30266,7 @@ tree = {
         ANSWER: "League of Nations"
       },
       {
-        SUBJECT: "is Longitudes",
+        SUBJECT: "Longitudes",
         QUESTION_CONTENTS: "What is the three-word name for the imaginary line on the Earth's surface that joins the north and south poles and follows the 180 degree meridian through the Pacific Ocean?",
         ANSWER: "International Date Line"
       },
@@ -30316,7 +30311,7 @@ tree = {
         ANSWER: "boom towns"
       },
       {
-        SUBJECT: "lt. 3. Jelly",
+        SUBJECT: "Jelly",
         QUESTION_CONTENTS: "Name the coagulating substance in certain fruits used in making jelly.",
         ANSWER: "pectin"
       },
@@ -30501,12 +30496,12 @@ tree = {
         ANSWER: "$48,000"
       },
       {
-        SUBJECT: "lt. 3. Matrimony",
+        SUBJECT: "Matrimony",
         QUESTION_CONTENTS: "What are the first four words in the lyrics of Mendelssohn's 'Wedding March'?",
         ANSWER: "Here comes the bride."
       },
       {
-        SUBJECT: "s Oceans",
+        SUBJECT: "Oceans",
         QUESTION_CONTENTS: "Thanks to plate tectonics, which of the world's great oceans is slowly becoming smaller?",
         ANSWER: "Pacific Ocean"
       },
@@ -30966,7 +30961,7 @@ tree = {
         ANSWER: "Pentagon"
       },
       {
-        SUBJECT: "e Doors",
+        SUBJECT: "Doors",
         QUESTION_CONTENTS: "What kind of door, invented in 1888, is always open and always closed?",
         ANSWER: "revolving door"
       },
@@ -31121,7 +31116,7 @@ tree = {
         ANSWER: "Nazi (National Socialist)"
       },
       {
-        SUBJECT: "s World War Il",
+        SUBJECT: "World War II",
         QUESTION_CONTENTS: "In 1940, the U.S. agreed to send Britain 50 over-age destroyers in exchange for rights to construct bases in the West Indies. This marked the beginning of what agreement with the Allies?",
         ANSWER: "Lend-Lease"
       },
@@ -31306,7 +31301,7 @@ tree = {
         ANSWER: "Denmark"
       },
       {
-        SUBJECT: "a Political Practices",
+        SUBJECT: "Political Practices",
         QUESTION_CONTENTS: "Emperor Nero deported critics and burned manuscripts of which he disapproved. This is an early example of what political practice?",
         ANSWER: "censorship"
       },
@@ -31461,7 +31456,7 @@ tree = {
         ANSWER: "hydrogen"
       },
       {
-        SUBJECT: "lt. 4. Inequalities",
+        SUBJECT: "Inequalities",
         QUESTION_CONTENTS: "What is the greatest possible value of a number if five more than the quotient of the number and 2 is at leas",
         ANSWER: "that number?"
       },
@@ -31471,7 +31466,7 @@ tree = {
         ANSWER: "oxidation"
       },
       {
-        SUBJECT: "lt. 4. Intercontinental Exchanges",
+        SUBJECT: "Intercontinental Exchanges",
         QUESTION_CONTENTS: "The transmission of non-native plants, animals, and diseases from Europe to the Americas, and vice versa, after 1492 is known as what exchange?",
         ANSWER: "Columbian Exchange"
       },
@@ -31556,7 +31551,7 @@ tree = {
         ANSWER: "gearing"
       },
       {
-        SUBJECT: "lt. 4. The Big Squeeze",
+        SUBJECT: "The Big Squeeze",
         QUESTION_CONTENTS: "When a force, F, acts perpendicular to a surface with an area, A, what is the formula for pressure?",
         ANSWER: "P = FIA"
       },
@@ -31581,7 +31576,7 @@ tree = {
         ANSWER: "malleable"
       },
       {
-        SUBJECT: "lt. 3. Leaf Testing",
+        SUBJECT: "Leaf Testing",
         QUESTION_CONTENTS: "If you put some iodine on a leaf and, after several hours, the leaf turns dark blue, you know that the leaf contains what naturally abundant carbohydrate?",
         ANSWER: "starch"
       },
@@ -31966,7 +31961,7 @@ tree = {
         ANSWER: "ground"
       },
       {
-        SUBJECT: "is Multiplying Variables",
+        SUBJECT: "Multiplying Variables",
         QUESTION_CONTENTS: "If x is multiplied by 5/4, it will change from 16 to 20 or from ---- to 55.",
         ANSWER: "44"
       },
@@ -32016,7 +32011,7 @@ tree = {
         ANSWER: "Walden"
       },
       {
-        SUBJECT: "is Atmospheric Gases",
+        SUBJECT: "Atmospheric Gases",
         QUESTION_CONTENTS: "What gas that in the stratosphere provides a protective shield against ultraviolet radiation is, in the troposphere, a major component of photochemical smog?",
         ANSWER: "ozone"
       },
@@ -32356,7 +32351,7 @@ tree = {
         ANSWER: "Comstock Lode"
       },
       {
-        SUBJECT: "lt. 5. Medieval Classifications",
+        SUBJECT: "Medieval Classifications",
         QUESTION_CONTENTS: "How would a medieval scholar classify these tendencies?  gluttony  wrath  pride  avarice",
         ANSWER: "vices"
       },
@@ -32646,7 +32641,7 @@ tree = {
         ANSWER: "editorial"
       },
       {
-        SUBJECT: "lt. 1. Ancient Geography",
+        SUBJECT: "Ancient Geography",
         QUESTION_CONTENTS: "The New Kingdom of ancient Egypt was adjacent to what two seas?",
         ANSWER: "Mediterranean, Red"
       },
@@ -32811,7 +32806,7 @@ tree = {
         ANSWER: "Kansas"
       },
       {
-        SUBJECT: "lt. 1. Mythical Spinners",
+        SUBJECT: "Mythical Spinners",
         QUESTION_CONTENTS: "Clotho was one of the three Fates. She was responsible for spinning what thread?",
         ANSWER: "thread of life"
       },
@@ -32846,7 +32841,7 @@ tree = {
         ANSWER: "one"
       },
       {
-        SUBJECT: "lt. 2. Fossils",
+        SUBJECT: "Fossils",
         QUESTION_CONTENTS: "Name the two general categories of rock in which fossils are only rarely discovered.",
         ANSWER: "igneous, metamorphic"
       },
@@ -33181,7 +33176,7 @@ tree = {
         ANSWER: "Aegean"
       },
       {
-        SUBJECT: "i Waterfalls",
+        SUBJECT: "Waterfalls",
         QUESTION_CONTENTS: "Astounding waterfalls in what country were named after the pilot, Jimmy Angel, who flew over them in 1935?",
         ANSWER: "Venezuela"
       },
@@ -33191,7 +33186,7 @@ tree = {
         ANSWER: "The Town Mouse and the Country Mouse"
       },
       {
-        SUBJECT: "lt. 2. Federal Fees",
+        SUBJECT: "Federal Fees",
         QUESTION_CONTENTS: "If you buy something in another country and take it  home to the U.S., the merchandise must be cleared at the port of entry. It may be subject to extra charges  collected by the government called what?",
         ANSWER: "duties (tariffs)"
       },
@@ -33276,17 +33271,17 @@ tree = {
         ANSWER: "66 degrees"
       },
       {
-        SUBJECT: "is Equations",
+        SUBJECT: "Equations",
         QUESTION_CONTENTS: "If three-fifths of q equals ten, what is q?",
         ANSWER: "50/3 (or 16.66 or 16 2/3)"
       },
       {
-        SUBJECT: "lt. 4. Elections",
+        SUBJECT: "Elections",
         QUESTION_CONTENTS: "A person who endorses a particular candidate may wear a badge imprinted with the candidate's name or slogan. What is such a badge called?",
         ANSWER: "campaign button"
       },
       {
-        SUBJECT: "lt. 5. Sports Optics",
+        SUBJECT: "Sports Optics",
         QUESTION_CONTENTS: "With a telescope or binoculars, the width in feet of the area visible from 1,000 yards away is the F.O.V. which stands for what?",
         ANSWER: "field of view"
       },
@@ -33316,7 +33311,7 @@ tree = {
         ANSWER: "fish"
       },
       {
-        SUBJECT: "lt. 5. Monarchs",
+        SUBJECT: "Monarchs",
         QUESTION_CONTENTS: "What was the title of the absolute monarchs who governed Russia until 1917?",
         ANSWER: "czar (or czarina)"
       },
@@ -33366,7 +33361,7 @@ tree = {
         ANSWER: "Lord of the Rings"
       },
       {
-        SUBJECT: "s Rubber",
+        SUBJECT: "Rubber",
         QUESTION_CONTENTS: "Charles Goodyear's method of preparing rubber was named after what Roman god?",
         ANSWER: "Vulcan"
       },
@@ -33391,7 +33386,7 @@ tree = {
         ANSWER: "World War |"
       },
       {
-        SUBJECT: "lt. 3. Autotrophs",
+        SUBJECT: "Autotrophs",
         QUESTION_CONTENTS: "What kind of energy do photoautotrophic organisms use to manufacture food?",
         ANSWER: "light (electromagnetic)"
       },
@@ -33421,7 +33416,7 @@ tree = {
         ANSWER: "ignition"
       },
       {
-        SUBJECT: "lt. 3. Hearts",
+        SUBJECT: "Hearts",
         QUESTION_CONTENTS: "Which of the two types of chambers in a mammal's heart pumps blood out into the body?",
         ANSWER: "ventricle"
       },
@@ -33586,7 +33581,7 @@ tree = {
         ANSWER: "missing in action"
       },
       {
-        SUBJECT: "s Limestone",
+        SUBJECT: "Limestone",
         QUESTION_CONTENTS: "Regions in which groundwater has shaped the landscape by dissolution of limestone are named after what valley in the former Yugoslavia where such features are typical?",
         ANSWER: "Karst Valley"
       },
@@ -33831,7 +33826,7 @@ tree = {
         ANSWER: "a head"
       },
       {
-        SUBJECT: "lt. 3. Inventions",
+        SUBJECT: "Inventions",
         QUESTION_CONTENTS: "In what mountainous European country were these inventions developed?  Velcro  white chocolate  bank secrecy  bobsledding  cellophane  a pocket knife manufactured  by Victorino",
         ANSWER: "Switzerland"
       },
@@ -33906,7 +33901,7 @@ tree = {
         ANSWER: "Pedro Cabral"
       },
       {
-        SUBJECT: "e The Moon",
+        SUBJECT: "The Moon",
         QUESTION_CONTENTS: "What phase of the Moon is exactly opposite the gibbous phase?",
         ANSWER: "crescent phase"
       },
@@ -34301,7 +34296,7 @@ tree = {
         ANSWER: "Korean Peninsula"
       },
       {
-        SUBJECT: "lt. 5. Balloon Physics",
+        SUBJECT: "Balloon Physics",
         QUESTION_CONTENTS: "When you blow up a balloon, you are essentially filling it with potential energy. What kind of energy is illustrated when you release the balloon and the air jets out?",
         ANSWER: "kinetic energy"
       },
@@ -34311,7 +34306,7 @@ tree = {
         ANSWER: "Manhattan Island"
       },
       {
-        SUBJECT: "s Alice in Wonderland",
+        SUBJECT: "Alice in Wonderland",
         QUESTION_CONTENTS: "Which character in 'Alice in Wonderland' spoke these words?  Not the same thing a bit! Why, you might  just as well say that 'I see what I eat'  is the same thing as 'I eat what I see.'",
         ANSWER: "Mad Hatter"
       },
@@ -34366,7 +34361,7 @@ tree = {
         ANSWER: "longhorns"
       },
       {
-        SUBJECT: "e Ancient Literature",
+        SUBJECT: "Ancient Literature",
         QUESTION_CONTENTS: "The anger of what warrior in the war between the Mycenaeans and Troy is told in 'The Iliad'?",
         ANSWER: "Achilles"
       },
@@ -34431,7 +34426,7 @@ tree = {
         ANSWER: "glaciers (glaciation)"
       },
       {
-        SUBJECT: "lt. 3. Case",
+        SUBJECT: "Case",
         QUESTION_CONTENTS: "The first word in this sentence is in what case? Absence makes the heart grow fonder.",
         ANSWER: "nominative"
       },
@@ -34506,7 +34501,7 @@ tree = {
         ANSWER: "Vertigo"
       },
       {
-        SUBJECT: "is African Anagrams",
+        SUBJECT: "African Anagrams",
         QUESTION_CONTENTS: "'Lead man' is an anagram for what former South African political leader?",
         ANSWER: "Mandela"
       },
@@ -34591,7 +34586,7 @@ tree = {
         ANSWER: "Tenochtitlan"
       },
       {
-        SUBJECT: "i Coalitions",
+        SUBJECT: "Coalitions",
         QUESTION_CONTENTS: "What was the name for the alliance of France, Russia, Great Britain, the United States, and nearly twenty other nations who opposed and defeated the Central Powers in World War I?",
         ANSWER: "Allies (Allied Powers)"
       },
@@ -34781,7 +34776,7 @@ tree = {
         ANSWER: "Chile"
       },
       {
-        SUBJECT: "s Islands",
+        SUBJECT: "Islands",
         QUESTION_CONTENTS: "Surtsey Island is off the southern coast of what country?",
         ANSWER: "Iceland"
       },
@@ -34876,7 +34871,7 @@ tree = {
         ANSWER: "when"
       },
       {
-        SUBJECT: "lt. 4. Ratio Problems",
+        SUBJECT: "Ratio Problems",
         QUESTION_CONTENTS: "Two numbers are in the ratio of 7 to 4. What are the numbers if the sum of the larger and half the smaller is 36?",
         ANSWER: "28, 16"
       },
@@ -34956,7 +34951,7 @@ tree = {
         ANSWER: "Evita"
       },
       {
-        SUBJECT: "lt. 5. The Rock Cycle",
+        SUBJECT: "The Rock Cycle",
         QUESTION_CONTENTS: "Sedimentary rocks may be affected by two broad processes, metamorphism and what other?",
         ANSWER: "weathering"
       },
@@ -35026,7 +35021,7 @@ tree = {
         ANSWER: "Ulysses S. Grant"
       },
       {
-        SUBJECT: "s Soviet Satellites",
+        SUBJECT: "Soviet Satellites",
         QUESTION_CONTENTS: "Name the independent state formerly known as the Moldavian Soviet Socialist Republic.",
         ANSWER: "Moldova"
       },
@@ -35246,7 +35241,7 @@ tree = {
         ANSWER: "pater"
       },
       {
-        SUBJECT: "lt. 2. Cells",
+        SUBJECT: "Cells",
         QUESTION_CONTENTS: "What do uninucleate cells have?",
         ANSWER: "one nucleus"
       },
@@ -35481,7 +35476,7 @@ tree = {
         ANSWER: "378"
       },
       {
-        SUBJECT: "i Fantasies",
+        SUBJECT: "Fantasies",
         QUESTION_CONTENTS: "What is the first volume in the Dragonriders of Pern series?",
         ANSWER: "Dragonfight"
       },
@@ -35536,7 +35531,7 @@ tree = {
         ANSWER: "Abilene"
       },
       {
-        SUBJECT: "i Peninsulas",
+        SUBJECT: "Peninsulas",
         QUESTION_CONTENTS: "The Bataan Peninsula, the site of a major American defeat during the Second World War, is in what country?",
         ANSWER: "Philippines"
       },
@@ -35556,7 +35551,7 @@ tree = {
         ANSWER: "claws"
       },
       {
-        SUBJECT: "is Triangular Trade",
+        SUBJECT: "Triangular Trade",
         QUESTION_CONTENTS: "In the era of triangular trade, what commodity produced in the Caribbean would be shipped to either New England or to Europe where it would be distilled into rum?",
         ANSWER: "sugar (or sugarcane or molasses)"
       },
@@ -35616,7 +35611,7 @@ tree = {
         ANSWER: "cuneiform"
       },
       {
-        SUBJECT: "lt. 1. International Relations",
+        SUBJECT: "International Relations",
         QUESTION_CONTENTS: "The United Nations was founded at the end of what war?",
         ANSWER: "World War Il"
       },
@@ -35666,7 +35661,7 @@ tree = {
         ANSWER: "Coast Guard"
       },
       {
-        SUBJECT: "s Science Fiction",
+        SUBJECT: "Science Fiction",
         QUESTION_CONTENTS: "In what story by H.G. Wells do subterranean Morlocks live on Eloi?",
         ANSWER: "The Time Machine"
       },
@@ -35746,7 +35741,7 @@ tree = {
         ANSWER: "peninsula"
       },
       {
-        SUBJECT: "lt. 2. Archipelagoes",
+        SUBJECT: "Archipelagoes",
         QUESTION_CONTENTS: "The Santa Barbara Archipelago is off the coast of what state?",
         ANSWER: "California"
       },
@@ -35921,7 +35916,7 @@ tree = {
         ANSWER: "spinal cord"
       },
       {
-        SUBJECT: "s Mideast Cities",
+        SUBJECT: "Mideast Cities",
         QUESTION_CONTENTS: "Name the two largest cities of Iraq.",
         ANSWER: "Baghdad, Basra"
       },
@@ -36136,7 +36131,7 @@ tree = {
         ANSWER: "George Custer"
       },
       {
-        SUBJECT: "s Nonfiction",
+        SUBJECT: "Nonfiction",
         QUESTION_CONTENTS: "What work by Thor Heyerdahl is subtitled, 'Across the Pacific by Raft'?",
         ANSWER: "Kon-Tiki"
       },
@@ -36156,7 +36151,7 @@ tree = {
         ANSWER: "positive terminal"
       },
       {
-        SUBJECT: "i New World Colonizers",
+        SUBJECT: "New World Colonizers",
         QUESTION_CONTENTS: "The five kingdoms that first established colonies in the New World included the English, French, Spanish, Portuguese, and the ...",
         ANSWER: "Dutch"
       },
@@ -36211,7 +36206,7 @@ tree = {
         ANSWER: "OSHA"
       },
       {
-        SUBJECT: "lt. 1. Military Ranks",
+        SUBJECT: "Military Ranks",
         QUESTION_CONTENTS: "What western military rank came from the Arabic naval title, 'amir al-bahr'?",
         ANSWER: "admiral"
       },
@@ -36246,7 +36241,7 @@ tree = {
         ANSWER: "Argentina"
       },
       {
-        SUBJECT: "is Speedy Mammals",
+        SUBJECT: "Speedy Mammals",
         QUESTION_CONTENTS: "The second fastest mammal lives in the Rocky Mountain states and has been clocked at over 60 miles per hour. Name this antelope.",
         ANSWER: "pronghorn"
       },
@@ -36281,7 +36276,7 @@ tree = {
         ANSWER: "unparalleled"
       },
       {
-        SUBJECT: "lt. 3. U.S. Economic History",
+        SUBJECT: "U.S. Economic History",
         QUESTION_CONTENTS: "Which of the Founding Fathers most vehemently  opposed Alexander Hamilton's proposals to create a national bank?",
         ANSWER: "Thomas Jefferson"
       },
@@ -36316,7 +36311,7 @@ tree = {
         ANSWER: "France"
       },
       {
-        SUBJECT: "s Canal Health",
+        SUBJECT: "Canal Health",
         QUESTION_CONTENTS: "The death rate in the Panama Canal Zone had dropped to 6 per 1000 in 1914 against 14 per 1000 when work began on the canal in 1904. This was mainly because William Gorgas had mostly won the fights against yellow fever and what other disease?",
         ANSWER: "malaria"
       },
@@ -36411,7 +36406,7 @@ tree = {
         ANSWER: "prince"
       },
       {
-        SUBJECT: "a Phrases",
+        SUBJECT: "Phrases",
         QUESTION_CONTENTS: "How is the prepositional phrase used below? The best time for study is in the night.",
         ANSWER: "noun"
       },
@@ -36611,7 +36606,7 @@ tree = {
         ANSWER: "Braille"
       },
       {
-        SUBJECT: "is Drama",
+        SUBJECT: "Drama",
         QUESTION_CONTENTS: "Name the two central adversaries in a melodrama.",
         ANSWER: "hero, villain (protagonist, antagonist)"
       },
@@ -36926,7 +36921,7 @@ tree = {
         ANSWER: "Amazon"
       },
       {
-        SUBJECT: "lt. 2. Technological Developments",
+        SUBJECT: "Technological Developments",
         QUESTION_CONTENTS: "During what general period in the history of Europe did these inventions emerge?  Fourdrinier paper machine  Tull seed drill  Meikle threshing machine  boring machine  slotting machine",
         ANSWER: "Industrial Revolution"
       },
@@ -36946,7 +36941,7 @@ tree = {
         ANSWER: "demand"
       },
       {
-        SUBJECT: "lt. 1. Rodents",
+        SUBJECT: "Rodents",
         QUESTION_CONTENTS: "Somewhat resembling beavers, name the common semi-aquatic rodents weighing 2 to 5 pounds with webbed feet and scaly, roundish tails that make their homes in riverbank burrows.",
         ANSWER: "muskrats"
       },
@@ -37081,7 +37076,7 @@ tree = {
         ANSWER: "Eloi"
       },
       {
-        SUBJECT: "lt. 5. Operations",
+        SUBJECT: "Operations",
         QUESTION_CONTENTS: "What vestigial abdominal organ is routinely removed when it becomes severely inflamed?",
         ANSWER: "appendix"
       },
@@ -37146,7 +37141,7 @@ tree = {
         ANSWER: "Hamlet"
       },
       {
-        SUBJECT: "i Torts",
+        SUBJECT: "Torts",
         QUESTION_CONTENTS: "What tort was committed when Steve stated untruthfully in several public meetings that the superintendent of schools in his town was a former Nazi, torturer for the Sandinistas, kidnapper, counterfeiter, and a spitter on sidewalks?",
         ANSWER: "slander"
       },
@@ -37386,7 +37381,7 @@ tree = {
         ANSWER: "fats"
       },
       {
-        SUBJECT: "a Civil War Battles",
+        SUBJECT: "Civil War Battles",
         QUESTION_CONTENTS: "Who told his men to 'Yell like furies when you charge' while preparing them to meet the Army of the Potomac at Bull Run?",
         ANSWER: "(Thomas (Stonewall) Jackson"
       },
@@ -37601,7 +37596,7 @@ tree = {
         ANSWER: "2/3"
       },
       {
-        SUBJECT: "lt. 2. Ligaments",
+        SUBJECT: "Ligaments",
         QUESTION_CONTENTS: "In what part of the body are these ligaments located? palmar radiocarpal ligament dorsal radiocarpal ligament ulnar collateral ligament radial collateral ligament",
         ANSWER: "wrist (lower arm)"
       },
@@ -37781,7 +37776,7 @@ tree = {
         ANSWER: "least"
       },
       {
-        SUBJECT: "lt. 2. Eruptions",
+        SUBJECT: "Eruptions",
         QUESTION_CONTENTS: "The 'year without a summer' occurred in 1816, a year after the exceptionally violent eruption of what Indonesian volcano that blew over 150 cubic kilometers of pumice and ash into the atmosphere?",
         ANSWER: "Tambora"
       },
@@ -37926,7 +37921,7 @@ tree = {
         ANSWER: "silk"
       },
       {
-        SUBJECT: "i War",
+        SUBJECT: "War",
         QUESTION_CONTENTS: "When an archduke's murder triggered a feud between Austria-Hungary and Serbia that prompted Russia to come to the aid of the Serbs, Germany to the aid of the Austrians, France to the aid of Russia, and England to the aid of Belgium, what war began?",
         ANSWER: "World War |"
       },
@@ -38026,7 +38021,7 @@ tree = {
         ANSWER: "Liberty"
       },
       {
-        SUBJECT: "a Identification",
+        SUBJECT: "Identification",
         QUESTION_CONTENTS: "What field of science was initiated when the Englishman Sir Francis Galton discovered that no two people have exactly the same pattern of ridges on their fingertips?",
         ANSWER: "fingerprinting"
       },
@@ -38226,7 +38221,7 @@ tree = {
         ANSWER: "William Shakespeare"
       },
       {
-        SUBJECT: "lt. 1. Imaginary Chemistry",
+        SUBJECT: "Imaginary Chemistry",
         QUESTION_CONTENTS: "What resilient material was invented by professor Ned Brainard in the 1961 movie, 'The Absent Minded Professor'?",
         ANSWER: "flubber"
       },
@@ -38241,7 +38236,7 @@ tree = {
         ANSWER: "nest eqg"
       },
       {
-        SUBJECT: "lt. 1. Vocabulary",
+        SUBJECT: "Vocabulary",
         QUESTION_CONTENTS: "Justice Joseph Story wrote in his 'Commentaries on the Constitution of the United States' that the right of the citizens to keep and bear arms is the palladium of the liberties of the republic. What does 'palladium' mean?",
         ANSWER: "safeguard, guarantee"
       },
@@ -38286,7 +38281,7 @@ tree = {
         ANSWER: "| will have goofed."
       },
       {
-        SUBJECT: "i Meridians",
+        SUBJECT: "Meridians",
         QUESTION_CONTENTS: "If the noon meridian sweeps over 360 degrees of longitude every day, it must travel how many degrees of longitude every hour?",
         ANSWER: "15 degrees"
       },
@@ -38666,7 +38661,7 @@ tree = {
         ANSWER: "fiber optics"
       },
       {
-        SUBJECT: "lt. 1. Legal Cases",
+        SUBJECT: "Legal Cases",
         QUESTION_CONTENTS: "In 1733, after printing stories that accused the colonial governor of rigging elections and various other crimes, the publisher of the New York Weekly Journal was arrested and tried for seditious libel. At his trial, the judge ordered the jury to convict, but they returned a verdict of not guilty. Who was the defendant?",
         ANSWER: "John Peter Zenger"
       },
@@ -39031,7 +39026,7 @@ tree = {
         ANSWER: "Islam, Christian"
       },
       {
-        SUBJECT: "lt. 1. City Sites",
+        SUBJECT: "City Sites",
         QUESTION_CONTENTS: "In what Mideast city are these sites? The Western Wall Tunnels The Jaffa Gate Knesset Damascus Gate Zion Gate City of David Visitors Center",
         ANSWER: "Jerusalem"
       },
@@ -39161,7 +39156,7 @@ tree = {
         ANSWER: "no new pope has been elected"
       },
       {
-        SUBJECT: "is Physical Processes",
+        SUBJECT: "Physical Processes",
         QUESTION_CONTENTS: "The taking up of a gas by a solid or al or the taking up of a liquid by a solid, is called ..",
         ANSWER: "absorption"
       },
@@ -39261,7 +39256,7 @@ tree = {
         ANSWER: "the cook"
       },
       {
-        SUBJECT: "lt. 3. Marine Life",
+        SUBJECT: "Marine Life",
         QUESTION_CONTENTS: "What free-swimming marine animal consists of a gelatinous umbrella-shaped bell and numerous trailing tentacles?",
         ANSWER: "jellyfish"
       },
@@ -39506,7 +39501,7 @@ tree = {
         ANSWER: "perpetual motion machine"
       },
       {
-        SUBJECT: "s Presidents",
+        SUBJECT: "Presidents",
         QUESTION_CONTENTS: "Name either U.S. president who unsuccessfully tried to win third terms.",
         ANSWER: "Ulysses Grant, Theodore Roosevelt"
       },
@@ -39546,7 +39541,7 @@ tree = {
         ANSWER: "chum"
       },
       {
-        SUBJECT: "lt. 5. Capital Names",
+        SUBJECT: "Capital Names",
         QUESTION_CONTENTS: "Richmond, Virginia, and Boston, Massachusetts, were named after towns in England. Name either of the other two U.S. capitals so-named.",
         ANSWER: "Hartford, Dover"
       },
@@ -39906,7 +39901,7 @@ tree = {
         ANSWER: "But only God can make a tree."
       },
       {
-        SUBJECT: "i Animals",
+        SUBJECT: "Animals",
         QUESTION_CONTENTS: "This Lewis and Clark journal entry refers to what animals? These wolves sally out in a body against any animal they think they can overpower, but on the slightest alarm, retreat to burrows making a noise like that of a small dog.",
         ANSWER: "coyotes"
       },
@@ -40046,7 +40041,7 @@ tree = {
         ANSWER: "Francisco Franco"
       },
       {
-        SUBJECT: "lt. 3. World War Il",
+        SUBJECT: "World War Il",
         QUESTION_CONTENTS: "To what kind of weapon was this 1945 headline from the 'London Daily Express' referring?  20,000 Tons in a Golf Ball",
         ANSWER: "atomic bomb"
       },
@@ -40196,7 +40191,7 @@ tree = {
         ANSWER: "Vinland or Wineland"
       },
       {
-        SUBJECT: "lt. 4. Vikings",
+        SUBJECT: "Vikings",
         QUESTION_CONTENTS: "Norsemen called Danes were from which Scandinavian country?",
         ANSWER: "Denmark"
       },
@@ -40286,7 +40281,7 @@ tree = {
         ANSWER: "3 (or 3 to 1)"
       },
       {
-        SUBJECT: "a Waterfalls",
+        SUBJECT: "Waterfalls",
         QUESTION_CONTENTS: "Four of the fifteen highest waterfalls in the world are in what U.S. national park?",
         ANSWER: "Yosemite"
       },
@@ -40341,7 +40336,7 @@ tree = {
         ANSWER: "fraud"
       },
       {
-        SUBJECT: "s Wars",
+        SUBJECT: "Wars",
         QUESTION_CONTENTS: "What war was largely a stalemated conflict of trench warfare with massive artillery barrages and suicidal infantry attacks against murderous machine gun and rifle crossfire?",
         ANSWER: "World War |"
       },
@@ -40711,7 +40706,7 @@ tree = {
         ANSWER: "West Indies"
       },
       {
-        SUBJECT: "lt. 1. Abbreviations",
+        SUBJECT: "Abbreviations",
         QUESTION_CONTENTS: "The two-letter combination used in the abbreviation for what southern state is the same as that for what extremely abundant silvery-white ductile metallic element?",
         ANSWER: "aluminum"
       },
@@ -40821,7 +40816,7 @@ tree = {
         ANSWER: "knockout"
       },
       {
-        SUBJECT: "is Economic Geography",
+        SUBJECT: "Economic Geography",
         QUESTION_CONTENTS: "The headquarters of these major organizations are in what U.S. city?  United Auto Workers  General Motors  Chrysler  Ford",
         ANSWER: "Detroit"
       },
@@ -41066,7 +41061,7 @@ tree = {
         ANSWER: "Philippines"
       },
       {
-        SUBJECT: "e Drama",
+        SUBJECT: "Drama",
         QUESTION_CONTENTS: "What compound word refers to the wings, dressing rooms, and other parts of a theater behind the proscenium and beyond the view of the audience?",
         ANSWER: "backstage"
       },
@@ -41501,7 +41496,7 @@ tree = {
         ANSWER: "peace"
       },
       {
-        SUBJECT: "i U.N. Decisions",
+        SUBJECT: "U.N. Decisions",
         QUESTION_CONTENTS: "In 1948, the United Nations approved a proposal to partition what land into Arab and Jewish states?",
         ANSWER: "Palestine"
       },
@@ -41572,7 +41567,7 @@ tree = {
       },
       {
         SUBJECT: "Composers",
-        QUESTION_CONTENTS: "He came from a family in which more than fifty were musicians. Name this composer who worked at St. Thomas! Church, married twice, and had twenty children.",
+        QUESTION_CONTENTS: "He came from a family in which more than fifty were musicians. Name this composer who worked at St. Thomas Church, married twice, and had twenty children.",
         ANSWER: "Johann Sebastian Bach"
       },
       {
@@ -41626,7 +41621,7 @@ tree = {
         ANSWER: "castles"
       },
       {
-        SUBJECT: "a World War Il",
+        SUBJECT: "World War II",
         QUESTION_CONTENTS: "One device which directly contributed to the victory of the British during the Battle of Britain enabled the defenders to plot the approach of enemy aircraft well before they reached their targets. Name it.",
         ANSWER: "radar"
       },
@@ -41701,7 +41696,7 @@ tree = {
         ANSWER: "Japan, China"
       },
       {
-        SUBJECT: "s Science Abbreviations",
+        SUBJECT: "Science Abbreviations",
         QUESTION_CONTENTS: "What is the meaning of the abbreviation in this  statement? The peat in the world's peatlands has been forming for 360 million years and contains some 550 Gt of carbon.",
         ANSWER: "gigatons"
       },
@@ -41781,7 +41776,7 @@ tree = {
         ANSWER: "friction"
       },
       {
-        SUBJECT: "s Science Fiction Characters",
+        SUBJECT: "Science Fiction Characters",
         QUESTION_CONTENTS: "Mustapha Mond is one of the ten-member ruling cabal of the futuristic World State created by what author?",
         ANSWER: "Aldous Huxley"
       },
@@ -41816,7 +41811,7 @@ tree = {
         ANSWER: "Botany Bay"
       },
       {
-        SUBJECT: "lt. 2. Syllogisms",
+        SUBJECT: "Syllogisms",
         QUESTION_CONTENTS: "What is the conclusion of this syllogism? All young actors are poor people. All poor people need new cars.  All young actors need new",
         ANSWER: "cars."
       },
@@ -41996,7 +41991,7 @@ tree = {
         ANSWER: "hearing"
       },
       {
-        SUBJECT: "a Futuristic Novels",
+        SUBJECT: "Futuristic Novels",
         QUESTION_CONTENTS: "In 'Brave New World,' human embryos range from Alpha Plus Intellectuals to Epsilon Minus ...",
         ANSWER: "Morons"
       },
@@ -42031,12 +42026,12 @@ tree = {
         ANSWER: "streamlining"
       },
       {
-        SUBJECT: "i Wars",
+        SUBJECT: "Wars",
         QUESTION_CONTENTS: "What war provides the backdrop to the Homeric epics?",
         ANSWER: "Trojan War"
       },
       {
-        SUBJECT: "is Musicals",
+        SUBJECT: "Musicals",
         QUESTION_CONTENTS: "The musical, 'Once Upon a Mattress,' was based on what Hans Christian Andersen fairy tale?",
         ANSWER: "The Princess and the Pea"
       },
@@ -42256,7 +42251,7 @@ tree = {
         ANSWER: "Allies"
       },
       {
-        SUBJECT: "s Pollution",
+        SUBJECT: "Pollution",
         QUESTION_CONTENTS: "In the 1960s, you could see about 100 feet into the water. By the year 2000, visibility was down to 70 feet. A proliferation of algae resulting from human activities are changing the crystal cobalt blue waters of what lake on the California-Nevada border to green?",
         ANSWER: "Lake Tahoe"
       },
@@ -42396,7 +42391,7 @@ tree = {
         ANSWER: "Treaty of Guadalupe Hidalgo"
       },
       {
-        SUBJECT: "is Legislative Powers",
+        SUBJECT: "Legislative Powers",
         QUESTION_CONTENTS: "Complete this line from the Constitution. Congress shall have the power to coin money, regulate the value thereof, and of foreign coin, and fix the standard of weights and ...",
         ANSWER: "measures"
       },
@@ -42411,7 +42406,7 @@ tree = {
         ANSWER: "Marathon"
       },
       {
-        SUBJECT: "lt. 5. Official Testimony",
+        SUBJECT: "Official Testimony",
         QUESTION_CONTENTS: "In his testimony before the House in 2013, Gregory Hicks, former deputy chief of mission in Libya said, 'I was stunned. My jaw dropped and I was embarrassed.' He was referring to the U.S. administration's characterization of the attack on the American diplomatic mission in what city as a spontaneous reaction to an anti-Islam YouTube video?",
         ANSWER: "Benghazi"
       },
@@ -42541,7 +42536,7 @@ tree = {
         ANSWER: "by"
       },
       {
-        SUBJECT: "is Religion in the Americas",
+        SUBJECT: "Religion in the Americas",
         QUESTION_CONTENTS: "What was the first European religion introduced into the New World?",
         ANSWER: "Catholicism"
       },
@@ -42701,7 +42696,7 @@ tree = {
         ANSWER: "anhydrous"
       },
       {
-        SUBJECT: "lt. 2. Caught",
+        SUBJECT: "Caught",
         QUESTION_CONTENTS: "To give oneself up to law enforcement officials is to do what?",
         ANSWER: "surrender (turn oneself in)"
       },
@@ -42781,7 +42776,7 @@ tree = {
         ANSWER: "Sparta"
       },
       {
-        SUBJECT: "lt. 4. Expeditions",
+        SUBJECT: "Expeditions",
         QUESTION_CONTENTS: "In 1804, the Lewis and Clark expedition camped for a while at the confluence of the Kansas and Missouri rivers, the site of what modern city?",
         ANSWER: "Kansas City"
       },
@@ -43286,7 +43281,7 @@ tree = {
         ANSWER: "arms race"
       },
       {
-        SUBJECT: "i Last Words",
+        SUBJECT: "Last Words",
         QUESTION_CONTENTS: "Whose last words might these have been? I am perishing - expiring - passing away - petering out - departing this life - quitting this world - making my exit - croaking - cashing in my chips - pegging out",
         ANSWER: "Peter Roget"
       },
@@ -43296,7 +43291,7 @@ tree = {
         ANSWER: "scoop"
       },
       {
-        SUBJECT: "i Humanities",
+        SUBJECT: "Humanities",
         QUESTION_CONTENTS: "What did Bertrand Russell say that 'from the earliest times has made greater claims and achieved fewer results than any other branch of learning'?",
         ANSWER: "philosophy"
       },
@@ -43621,7 +43616,7 @@ tree = {
         ANSWER: "dams"
       },
       {
-        SUBJECT: "lt. 1. Paleontology",
+        SUBJECT: "Paleontology",
         QUESTION_CONTENTS: "This clipping from 1938 is about what creature? Scientists are trying to make sense of a fish trawled up from the ocean depths off South Africa. The bizarre creature has been called a living fossil because it was thought to be extinct 70 million years ago.",
         ANSWER: "coelacanth"
       },
@@ -43721,7 +43716,7 @@ tree = {
         ANSWER: "90 degrees west, 30 degrees south"
       },
       {
-        SUBJECT: "i Weather Prediction",
+        SUBJECT: "Weather Prediction",
         QUESTION_CONTENTS: "In what Pennsylvania town does a pudgy, burrowing rodent annually forecast the remaining days of winter?",
         ANSWER: "Punxsutawney"
       },
@@ -43851,7 +43846,7 @@ tree = {
         ANSWER: "simile"
       },
       {
-        SUBJECT: "is Voting Rights",
+        SUBJECT: "Voting Rights",
         QUESTION_CONTENTS: "In many states, voters registered as independents cannot vote in what kind of election?",
         ANSWER: "primary"
       },
@@ -44051,7 +44046,7 @@ tree = {
         ANSWER: "Philippines"
       },
       {
-        SUBJECT: "a African Resources",
+        SUBJECT: "African Resources",
         QUESTION_CONTENTS: "Johannesburg in the Transvaal was founded in 1886 and soon had a population of 100,000 working in the mines extracting what mineral?",
         ANSWER: "gold"
       },
@@ -44106,7 +44101,7 @@ tree = {
         ANSWER: "Jonathan Swift"
       },
       {
-        SUBJECT: "lt. 5. Mapping the World",
+        SUBJECT: "Mapping the World",
         QUESTION_CONTENTS: "On a globe, what lines are circles parallel to the equator?",
         ANSWER: "lines of latitude"
       },
@@ -44311,7 +44306,7 @@ tree = {
         ANSWER: "executive"
       },
       {
-        SUBJECT: "lt. 4. Travel Problems",
+        SUBJECT: "Travel Problems",
         QUESTION_CONTENTS: "Two trucks are two hundred miles apart on a straight Nevada highway. One starts at 9:00 p.m. and drives west at 60 mph. The other starts at 9:00 p.m. and drives east at 40 mph. What time do they meet?",
         ANSWER: "11 p.m."
       },
@@ -44381,7 +44376,7 @@ tree = {
         ANSWER: "Curiosity killed the cat."
       },
       {
-        SUBJECT: "lt. 4. Hitler",
+        SUBJECT: "Hitler",
         QUESTION_CONTENTS: "Hitler was sentenced to five years in prison when the Nazi attempt to seize control of the Bavarian government in 1923 collapsed. Name this failed coup.",
         ANSWER: "Beer Hall (Munich) Putsch"
       },
@@ -44571,7 +44566,7 @@ tree = {
         ANSWER: "Gandalf (or Turgon)"
       },
       {
-        SUBJECT: "a IHlusions",
+        SUBJECT: "Illusions",
         QUESTION_CONTENTS: "In contrast to hallucinations, what kind of optical illusions produced by light refraction can be photographed?",
         ANSWER: "mirages"
       },
@@ -44901,7 +44896,7 @@ tree = {
         ANSWER: "Cornelius Vanderbilt"
       },
       {
-        SUBJECT: "lt. 3. Electronics",
+        SUBJECT: "Electronics",
         QUESTION_CONTENTS: "Name the process of increasing the voltage, current, or power of an electronic signal.",
         ANSWER: "amplification"
       },
@@ -45116,7 +45111,7 @@ tree = {
         ANSWER: "lens"
       },
       {
-        SUBJECT: "lt. 4. Presidential Powers",
+        SUBJECT: "Presidential Powers",
         QUESTION_CONTENTS: "What power of the president for eliminating the punishments of convicted criminals is often criticized when put into practice?",
         ANSWER: "pardon"
       },
@@ -45141,7 +45136,7 @@ tree = {
         ANSWER: "Morgan"
       },
       {
-        SUBJECT: "lt. 4. Lawmakers",
+        SUBJECT: "Lawmakers",
         QUESTION_CONTENTS: "What is the collective name for bodies such as national assemblies, parliaments, councils, and congresses?",
         ANSWER: "legislatures"
       },
@@ -45186,7 +45181,7 @@ tree = {
         ANSWER: "A Tale of Two Cities"
       },
       {
-        SUBJECT: "i Accidents",
+        SUBJECT: "Accidents",
         QUESTION_CONTENTS: "What kind of references was the truck carrying when it overturned on the road and the newspaper reported that onlookers were 'stunned, overwhelmed, startled, amazed, astonished, bewildered, and dumbfounded'?",
         ANSWER: "thesaurus"
       },
@@ -45241,7 +45236,7 @@ tree = {
         ANSWER: "2.065"
       },
       {
-        SUBJECT: "s Resources",
+        SUBJECT: "Resources",
         QUESTION_CONTENTS: "Deposits of what partially carbonized vegetable matter accumulate in bogs?",
         ANSWER: "peat"
       },
@@ -45451,7 +45446,7 @@ tree = {
         ANSWER: "John Marshall"
       },
       {
-        SUBJECT: "is Qualifications",
+        SUBJECT: "Qualifications",
         QUESTION_CONTENTS: "The Constitution includes what phrase to specify the kind of citizen one must be to become president of the United States?",
         ANSWER: "natural born"
       },
@@ -45506,7 +45501,7 @@ tree = {
         ANSWER: "statuette"
       },
       {
-        SUBJECT: "s Evidence",
+        SUBJECT: "Evidence",
         QUESTION_CONTENTS: "Evidence of indisputable guilt is indicated by the phrase, 'smoking ...'",
         ANSWER: "gun"
       },
@@ -45961,7 +45956,7 @@ tree = {
         ANSWER: "$.75"
       },
       {
-        SUBJECT: "is European Neighbors",
+        SUBJECT: "European Neighbors",
         QUESTION_CONTENTS: "The European part of what country is adjacent to the Ukraine, Belarus, Latvia, Estonia, and Finland?",
         ANSWER: "Russia"
       },
@@ -45976,7 +45971,7 @@ tree = {
         ANSWER: "Israel"
       },
       {
-        SUBJECT: "s Exercise",
+        SUBJECT: "Exercise",
         QUESTION_CONTENTS: "Crunches develop what muscles?",
         ANSWER: "abdominals (abs)"
       },
@@ -46001,7 +45996,7 @@ tree = {
         ANSWER: "The Gift of the Magi"
       },
       {
-        SUBJECT: "lt. 3. Revolutionary Officers",
+        SUBJECT: "Revolutionary Officers",
         QUESTION_CONTENTS: "He served under George Washington at the Battle of Brandywine and at Valley Forge, and played a role in the Battle of Yorktown. Name this famed French officer and American Revolutionary War general.",
         ANSWER: "Marquis de Lafayette"
       },
@@ -46066,7 +46061,7 @@ tree = {
         ANSWER: "Bronte"
       },
       {
-        SUBJECT: "lt. 4. Australian Bays",
+        SUBJECT: "Australian Bays",
         QUESTION_CONTENTS: "Originally, James Cook called it Stingray Bay because of the abundance of those fish there. But then, because of the tremendous variety of plants found in the region, he soon changed the name to what?",
         ANSWER: "Botany Bay"
       },
@@ -46516,7 +46511,7 @@ tree = {
         ANSWER: "disability insurance"
       },
       {
-        SUBJECT: "i Colloids",
+        SUBJECT: "Colloids",
         QUESTION_CONTENTS: "An aerosol is a colloidal dispersion of a solid or liquid ina...",
         ANSWER: "gas"
       },
@@ -46651,7 +46646,7 @@ tree = {
         ANSWER: "District of Columbia (Washington D.C.)"
       },
       {
-        SUBJECT: "i Distributions",
+        SUBJECT: "Distributions",
         QUESTION_CONTENTS: "Reminiscent of the study of light, a distribution of entities or properties arrayed in order of increasing or decreasing magnitude is a ...",
         ANSWER: "spectrum"
       },
@@ -46671,7 +46666,7 @@ tree = {
         ANSWER: "Jordan River"
       },
       {
-        SUBJECT: "s Solids",
+        SUBJECT: "Solids",
         QUESTION_CONTENTS: "The line about which a plane figure may be rotated to create a solid is called the ---- of rotation.",
         ANSWER: "axis"
       },
@@ -46751,7 +46746,7 @@ tree = {
         ANSWER: "girdle (belt, sash)"
       },
       {
-        SUBJECT: "s American Novels",
+        SUBJECT: "American Novels",
         QUESTION_CONTENTS: "What book in a stream of consciousness style to a doctor depicts the relationships of school friends, teachers, girl friends, a prostitute, siblings, and parents with Holden Caulfield?",
         ANSWER: "Catcher in the Rye"
       },
@@ -47351,7 +47346,7 @@ tree = {
         ANSWER: "girdle (belt, sash)"
       },
       {
-        SUBJECT: "lt. 5. Adventure Races",
+        SUBJECT: "Adventure Races",
         QUESTION_CONTENTS: "In 2012, some 150 runners faced bone-chilling temperatures and rarefied air to compete in the tenth annual Tenzing-Hillary Marathon on what Asian mountain?",
         ANSWER: "Mt. Everest"
       },
@@ -47441,12 +47436,12 @@ tree = {
         ANSWER: "The Firebird"
       },
       {
-        SUBJECT: "is Drug Slang",
+        SUBJECT: "Drug Slang",
         QUESTION_CONTENTS: "Reminiscent of a large holiday bird, the phrase meaning to abruptly curtail one's use of drugs is to quit how?",
         ANSWER: "cold-turkey"
       },
       {
-        SUBJECT: "lt. 2. Mountain Phenomena",
+        SUBJECT: "Mountain Phenomena",
         QUESTION_CONTENTS: "Alpenglow, a rosy glow on a mountain peak, occurs just after sunset or just before what part of the day?",
         ANSWER: "sunrise"
       },
@@ -47796,7 +47791,7 @@ tree = {
         ANSWER: "murals"
       },
       {
-        SUBJECT: "lt. 1. Mediterranean Isles",
+        SUBJECT: "Mediterranean Isles",
         QUESTION_CONTENTS: "Name the largest island between Malta and the toe of the boot of Italy.",
         ANSWER: "Sicily"
       },
@@ -47881,7 +47876,7 @@ tree = {
         ANSWER: "South Africa"
       },
       {
-        SUBJECT: "i Borders",
+        SUBJECT: "Borders",
         QUESTION_CONTENTS: "Name the two easternmost Canadian provinces with northern borders that are essentially straight lines.",
         ANSWER: "Saskatchewan, Manitoba"
       },
@@ -47891,12 +47886,12 @@ tree = {
         ANSWER: "wolverines"
       },
       {
-        SUBJECT: "is Dyes",
+        SUBJECT: "Dyes",
         QUESTION_CONTENTS: "A liquid dye used to enhance the grain in wood is called a ...",
         ANSWER: "stain"
       },
       {
-        SUBJECT: "s Division of Fractions",
+        SUBJECT: "Division of Fractions",
         QUESTION_CONTENTS: "Divide x/y by 3a/2.",
         ANSWER: "2x/3ay"
       },
@@ -47931,7 +47926,7 @@ tree = {
         ANSWER: "when"
       },
       {
-        SUBJECT: "a Blends",
+        SUBJECT: "Blends",
         QUESTION_CONTENTS: "'Splurge' is a blend of 'splash' and ..",
         ANSWER: "surge"
       },
@@ -48046,7 +48041,7 @@ tree = {
         ANSWER: "free (private) enterprise"
       },
       {
-        SUBJECT: "s Cuba",
+        SUBJECT: "Cuba",
         QUESTION_CONTENTS: "Fidel Castro exchanged his 1200 prisoners of war for $52 million in food and medical supplies following what fiasco which lead to worldwide denunciation of the United States?",
         ANSWER: "Bay of Pigs invasion"
       },
@@ -48606,7 +48601,7 @@ tree = {
         ANSWER: "hypodermic needle"
       },
       {
-        SUBJECT: "lt. 5. State Nicknames",
+        SUBJECT: "State Nicknames",
         QUESTION_CONTENTS: "Sometimes called the 'Gem State' because nearly every type of gemstone has been found there, what state is also called the 'Potato State'?",
         ANSWER: "Idaho"
       },
@@ -48711,7 +48706,7 @@ tree = {
         ANSWER: "nitrogen"
       },
       {
-        SUBJECT: "e Tales",
+        SUBJECT: "Tales",
         QUESTION_CONTENTS: "What tales inspired Rimsky-Korsakov to compose 'Scheherazade'?",
         ANSWER: "Arabian Nights"
       },
@@ -48781,7 +48776,7 @@ tree = {
         ANSWER: "Dracula"
       },
       {
-        SUBJECT: "i Battle Cries",
+        SUBJECT: "Battle Cries ",
         QUESTION_CONTENTS: "American colonists said 'No taxation without representation,' which meant that colonists had no representation in what legislative body?",
         ANSWER: "Parliament"
       },
@@ -48841,7 +48836,7 @@ tree = {
         ANSWER: "Gabriel Fahrenheit"
       },
       {
-        SUBJECT: "is Island Agriculture",
+        SUBJECT: "Island Agriculture",
         QUESTION_CONTENTS: "What is the most important agricultural crop of Taiwan?",
         ANSWER: "rice"
       },
@@ -49016,7 +49011,7 @@ tree = {
         ANSWER: "acting (dramatics, theater)"
       },
       {
-        SUBJECT: "i Bad Photos",
+        SUBJECT: "Bad Photos",
         QUESTION_CONTENTS: "Red eye in photographs occurs when a strobe light enters the eye and reflects off the ...",
         ANSWER: "retina"
       },
@@ -49071,7 +49066,7 @@ tree = {
         ANSWER: "state"
       },
       {
-        SUBJECT: "i Biomes",
+        SUBJECT: "Biomes",
         QUESTION_CONTENTS: "Just north of the tropic of Cancer and south of the tropic of Capricorn is what world-wide biome?",
         ANSWER: "desert"
       },
@@ -49181,7 +49176,7 @@ tree = {
         ANSWER: "Continental Divide Trail"
       },
       {
-        SUBJECT: "lt. 3. Europeans",
+        SUBJECT: "Europeans",
         QUESTION_CONTENTS: "He entered the French army at 14 and rose to the rank of captain by age 19. He offered to serve in the Continental Army without pay and was placed on Washington's staff. Name this man who helped draft the French bill of rights.",
         ANSWER: "Lafayette"
       },
@@ -49196,7 +49191,7 @@ tree = {
         ANSWER: "Boy Scouts"
       },
       {
-        SUBJECT: "a Metro Areas of Old",
+        SUBJECT: "Metro Areas of Old",
         QUESTION_CONTENTS: "Located near modern Mosul in Iraq, Nineveh was an ancient Assyrian capital on what river?",
         ANSWER: "Tigris"
       },
@@ -49291,7 +49286,7 @@ tree = {
         ANSWER: "grizzly bear"
       },
       {
-        SUBJECT: "s Mechanics",
+        SUBJECT: "Mechanics",
         QUESTION_CONTENTS: "In relation to mechanics, the ratio of the energy or power a machine delivers to the energy or power it receives defines what?",
         ANSWER: "efficiency"
       },
@@ -49306,7 +49301,7 @@ tree = {
         ANSWER: "spiral"
       },
       {
-        SUBJECT: "is Malapropisms",
+        SUBJECT: "Malapropisms",
         QUESTION_CONTENTS: "What word should have been used in this line? Listen to the blabbing brook.",
         ANSWER: "babbling"
       },
@@ -49366,7 +49361,7 @@ tree = {
         ANSWER: "quadrant III"
       },
       {
-        SUBJECT: "i Endowments",
+        SUBJECT: "Endowments",
         QUESTION_CONTENTS: "The same Hungarian-born American newspaper publisher who endowed the Columbia University School of Journalism also endowed what awards conferred annually?",
         ANSWER: "Pulitzer Prizes"
       },
@@ -49411,7 +49406,7 @@ tree = {
         ANSWER: "rhetorical"
       },
       {
-        SUBJECT: "lt. 5. Pirate Crews",
+        SUBJECT: "Pirate Crews",
         QUESTION_CONTENTS: "What was the name for those sailors who mopped the decks of pirate ships?",
         ANSWER: "swabbies (swabs)"
       },
@@ -49576,12 +49571,12 @@ tree = {
         ANSWER: "arsenic"
       },
       {
-        SUBJECT: "e Plant Roots",
+        SUBJECT: "Plant Roots",
         QUESTION_CONTENTS: "Water and dissolved minerals enter plants through what structures on roots?",
         ANSWER: "hairs"
       },
       {
-        SUBJECT: "s Horses",
+        SUBJECT: "Horses",
         QUESTION_CONTENTS: "What is the breed of horse bred originally by the Nez Perce Indians?",
         ANSWER: "appaloosa"
       },
@@ -49601,7 +49596,7 @@ tree = {
         ANSWER: "8(2p + 5)"
       },
       {
-        SUBJECT: "lt. 2. Colossal Cascades",
+        SUBJECT: "Colossal Cascades",
         QUESTION_CONTENTS: "This describes what spectacular falls? Plunging uninterrupted for 807 meters from a mystical tabletop mountain deep in the Venezuelan equatorial rainforest, it is widely acknowledged as the tallest permanent waterfall in the world.",
         ANSWER: "Angel Falls"
       },
