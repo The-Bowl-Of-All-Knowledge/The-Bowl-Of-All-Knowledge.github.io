@@ -40,7 +40,7 @@
             }
         }
         button {
-            background-color: #507f6d; /* Green */
+            background-color: #507f6dbc; /* Green */
             border: none;
             color: white;
             padding: 20px 32px;
@@ -48,12 +48,12 @@
             text-decoration: none;
             display: inline-block;
             font-size: 30px;
-            
             border-radius: 5px;
             transition-duration: 0.4s;
         }
         button:hover {
             border-radius: 20px;
+            background-color: #507f6d
         }
         
         select {
@@ -135,7 +135,12 @@
                 document.getElementById("ans").textContent = ""
             }
             function reveal(){
+                if (document.getElementById("ans").textContent == "") {
                 document.getElementById("ans").textContent = sourcado[questionindex].ANSWER
+                }
+                else {
+                    document.getElementById("ans").textContent = ""
+                }
             }
             
        </script>
