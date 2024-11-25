@@ -18332,8 +18332,8 @@ tree = {
       },
       {
         SUBJECT: "Pythagorean Applications",
-        QUESTION_CONTENTS: "What is the length of the hypotenuse of a right triangle whose legs have lengths of the square root o",
-        ANSWER: "6 and the square root of 19?"
+        QUESTION_CONTENTS: "What is the length of the hypotenuse of a right triangle whose legs have lengths of the square root of 6 and the square root of 19?",
+        ANSWER: "5"
       },
       {
         SUBJECT: "Documents",
