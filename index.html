@@ -28,22 +28,19 @@
             border-radius: 15px 50px;
             padding: 5px 10px;
             margin: 3% 15%;
-            margin-top: 10%;
+            margin-top: 7%;
             margin-bottom: 0%;
-            font-size: 20px;
-            p {
-            font-size: 25px;
-            }
+            font-size: 16px;
         }
         button {
-            background-color: #507f6dbc; /* Green */
+            background-color: #507f6dbc;
             border: none;
-            color: white;
+            color: aliceblue;
             padding: 20px 32px;
             margin: 2% 10%;
             text-decoration: none;
             display: inline-block;
-            font-size: 30px;
+            font-size: 40px;
             border-radius: 5px;
             transition-duration: 0.4s;
         }
@@ -53,8 +50,15 @@
         }
         
         select {
+            text-align: center;
+            -moz-appearance: none;
+            -webkit-appearance: none;
+            border-radius: 5px;
+            border: none;
+            background-color: #507f6dbc;
+            color: aliceblue;
             padding: 20px 70px;
-            font-size: 30px;
+            font-size: 40px;
         }
 
         footer {
@@ -91,7 +95,7 @@
         <div class="buttons">
             <button id="regenerate" onClick="regenerate()">Generate</button>
             <button id="reveal" onClick="reveal()">Reveal</button>
-            <p>Question Set:</p>
+            <h1>Question Set:</h1>
             <select name="QUESTION SET" id="questSet">
                 <option selected value="quantity">Quantity</option>
                 <option value="quality">Quality</option>
