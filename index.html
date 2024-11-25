@@ -31,6 +31,7 @@
             margin: 3% 10%;
             margin-top: 7%;
             margin-bottom: 0%;
+            font-size: 25px; font-weight: bold;
         }
         button {
             background-color: #507f6dbc;
@@ -78,6 +79,14 @@
         a {
             color: #507f6d;
         }
+
+        @media screen and (max-width:769px) {
+            .content {
+                background-color: rgba(128, 255, 213, 0.80);
+                font-size: 55px; 
+                font-weight: bold;
+            }
+        }
     </style>
 
     <head>
@@ -95,8 +104,8 @@
 
         <div class="content">
         <div class="QnA">
-        <p style="font-size: 25px; font-weight: bold;" id="subject"></p>
-        <p style="font-size: 25px; font-weight: bold;" id="question"></p>
+        <p id="subject"></p>
+        <p id="question"></p>
         </div>
         <div class="buttons">
             <button id="regenerate" onClick="regenerate()">Generate</button>
