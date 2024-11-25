@@ -28,14 +28,39 @@
             border-radius: 15px 50px;
             padding: 5px 10px;
             margin: 3% 15%;
-            margin-top: 15%;
+            margin-top: 10%;
             margin-bottom: 0%;
+            font-size: 15px;
+            p {
+            font-size: 25px;
+            }
 
             .QnA {
                 font-size: 15px;
             }
         }
+        button {
+            background-color: #507f6d; /* Green */
+            border: none;
+            color: white;
+            padding: 20px 32px;
+            margin: 2% 10%;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 30px;
+            
+            border-radius: 5px;
+            transition-duration: 0.4s;
+        }
+        button:hover {
+            border-radius: 20px;
+        }
         
+        select {
+            padding: 20px 70px;
+            font-size: 30px;
+        }
+
         footer {
         text-align: left;
         position:fixed;
@@ -68,14 +93,13 @@
         <h1 id="question">&nbsp</h1>
         </div>
         <div class="buttons">
-            <input id="regenerate" type="button" value="Generate
-Question" style="height:100px; width:100px" onClick="regenerate()">
-            <input id="reveal" type="button" value="Reveal
-Answer" onClick="reveal()" style="height:100px; width:100px">
-        <br>
-        <br>
-        <input type="checkbox" id="autorev"onclick="autoreveal()">
-        <label for="autorev"> Auto-reveal Answer</label>
+            <button id="regenerate" onClick="regenerate()">Generate</button>
+            <button id="reveal" onClick="reveal()">Reveal</button>
+            <p>Question Set:</p>
+            <select name="QUESTION SET" id="questSet">
+                <option selected value="quantity">Quantity</option>
+                <option value="quality">Quality</option>
+          </select>
         </div>
         <div class="anser">
             <h1 id="ans"></h2>
@@ -83,42 +107,37 @@ Answer" onClick="reveal()" style="height:100px; width:100px">
         </div>
 
         <footer>
-            <h6><a style="text-decoration: none" href="https://github.com/Marascaat/Marascaat.github.io">&lt;&lt;&lt;&copy; Marascaat&gt;&gt;&gt;</a></h6>
+            <h5><a style="text-decoration: none" href="https://github.com/Marascaat/Marascaat.github.io">&lt;&lt;&lt;&copy; Marascaat&gt;&gt;&gt;</a></h6>
         </footer>
        
         <script type="text/javascript" src="kestos.js"></script>
+        <script type="text/javascript" src="piss.js"></script>
         <script>
+            questionbase = "quality"
+            sourcado = {}
             awoken = false
-            arev = false
             shoans = false
             questionindex = 0
-            document.getElementById("autorev").checked = false
             if (!awoken) {
                 regenerate()
                 awoken = true
             }
             function regenerate() {
-                questionindex = Math.floor(Math.random() * 9979)
-                document.getElementById("subject").textContent = tree.questions[questionindex].SUBJECT
-                document.getElementById("question").textContent = tree.questions[questionindex].QUESTION_CONTENTS
-                if (arev) {
-                    document.getElementById("ans").textContent = tree.questions[questionindex].ANSWER
+                if (document.getElementById("questSet").value == "quantity") {
+                    sourcado = tree.questions
                 }
-                else {
-                    document.getElementById("ans").textContent = ""
+                else if (document.getElementById("questSet").value == "quality") {
+                    sourcado = tree2.questions
                 }
+                questionindex = Math.floor(Math.random() * (Object.keys(sourcado).length))
+                document.getElementById("subject").textContent = sourcado[questionindex].SUBJECT
+                document.getElementById("question").textContent = sourcado[questionindex].QUESTION_CONTENTS
+                document.getElementById("ans").textContent = ""
             }
             function reveal(){
-                document.getElementById("ans").textContent = tree.questions[questionindex].ANSWER
+                document.getElementById("ans").textContent = sourcado[questionindex].ANSWER
             }
-            function autoreveal() {
-                if (!arev) {
-                    arev = true
-                }
-                else {
-                    arev = false
-                }
-            }
+            
        </script>
     </body>
 </html>
