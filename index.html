@@ -129,8 +129,11 @@
         <div class="buttons">
             <h2>Question Set:</h2>
             <select name="QUESTION SET" id="questSet">
-                <option selected value="quantity">Quantity</option>
-                <option value="quality">Quality</option>
+                <optgroup label="Quantity">
+                <option selected value="10000">10000 Crap "?"s</option>
+                <optgroup label="Quality">
+                <option value="210">210 Okay "?"s</option>
+                <option value="190">190 Easier "?"s</option>
           </select>
         </div>
         </div>
@@ -141,6 +144,7 @@
        
         <script type="text/javascript" src="kestos.js"></script>
         <script type="text/javascript" src="piss.js"></script>
+        <script type="text/javascript" src="cbt.js"></script>
         <script>
             questionbase = "quality"
             sourcado = {}
@@ -152,11 +156,14 @@
                 awoken = true
             }
             function regenerate() {
-                if (document.getElementById("questSet").value == "quantity") {
+                if (document.getElementById("questSet").value == "10000") {
                     sourcado = tree.questions
                 }
-                else if (document.getElementById("questSet").value == "quality") {
+                else if (document.getElementById("questSet").value == "210") {
                     sourcado = tree2.questions
+                }
+                else if (document.getElementById("questSet").value == "190") {
+                    sourcado = tree3.questions
                 }
                 questionindex = Math.floor(Math.random() * (Object.keys(sourcado).length))
                 document.getElementById("subject").textContent = sourcado[questionindex].SUBJECT
