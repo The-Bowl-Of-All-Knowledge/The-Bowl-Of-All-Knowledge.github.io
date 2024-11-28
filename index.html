@@ -132,6 +132,7 @@
                 <optgroup label="Quantity">
                 <option selected value="10000">10000 Crap "?"s</option>
                 <optgroup label="Quality">
+                <option value="260">260 University Level "?"s</option>
                 <option value="210">210 Okay "?"s</option>
                 <option value="190">190 Easier "?"s</option>
           </select>
@@ -142,6 +143,7 @@
             <h5><a style="text-decoration: none" href="https://github.com/Marascaat/Marascaat.github.io">&lt;&lt;&lt;&copy; Marascaat&gt;&gt;&gt;</a></h6>
         </footer>
        
+        <script type="text/javascript" src="karl.js"></script>
         <script type="text/javascript" src="kestos.js"></script>
         <script type="text/javascript" src="piss.js"></script>
         <script type="text/javascript" src="cbt.js"></script>
@@ -164,6 +166,9 @@
                 }
                 else if (document.getElementById("questSet").value == "190") {
                     sourcado = tree3.questions
+                }
+                else if (document.getElementById("questSet").value == "260") {
+                    sourcado = tree4.questions
                 }
                 questionindex = Math.floor(Math.random() * (Object.keys(sourcado).length))
                 document.getElementById("subject").textContent = sourcado[questionindex].SUBJECT
