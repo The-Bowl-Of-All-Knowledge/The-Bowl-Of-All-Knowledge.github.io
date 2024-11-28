@@ -466,7 +466,7 @@ tree = {
         ANSWER: "Napoleon"
       },
       {
-        SUBJECT: "xtra 10. Pronouns",
+        SUBJECT: "Pronouns",
         QUESTION_CONTENTS: "There are three pronouns in this sentence. All are what type of pronouns?  You and I will see him shortly.",
         ANSWER: "personal"
       },
@@ -1794,11 +1794,6 @@ tree = {
         SUBJECT: "Radical Fiction",
         QUESTION_CONTENTS: "As dams, bridges, and concrete destroy the environment in the American West, a burned-out veteran, a mad doctor, a revolutionary, and a polygamist outdoorsman join forces to dismantle the machinery of progress in what novel by Edward Abbey?",
         ANSWER: "The Monkey Wrench Gang"
-      },
-      {
-        SUBJECT: "Midpoints",
-        QUESTION_CONTENTS: "Determine the midpoint of the segment from (-6,5) t",
-        ANSWER: "(2,5)."
       },
       {
         SUBJECT: "Silicate Minerals",
@@ -4856,7 +4851,7 @@ tree = {
         ANSWER: "internal"
       },
       {
-        SUBJECT: "xtra 15. Ancient Literary Forms",
+        SUBJECT: "Ancient Literary Forms",
         QUESTION_CONTENTS: "Dating back to at least the 6th century B.C., what is the name for brief stories illustrating human tendencies through animal characters?",
         ANSWER: "fables"
       },
@@ -9201,7 +9196,7 @@ tree = {
         ANSWER: "integer"
       },
       {
-        SUBJECT: "xtra 1. Crime",
+        SUBJECT: "Crime",
         QUESTION_CONTENTS: "The theft of branded livestock is what crime?",
         ANSWER: "rustling"
       },
@@ -13301,7 +13296,7 @@ tree = {
         ANSWER: "x/36 cents"
       },
       {
-        SUBJECT: "xtra 17. Earth's Orbit",
+        SUBJECT: "Earth's Orbit",
         QUESTION_CONTENTS: "The aphelion or that point in the Earth's orbit when it is farthest from the Sun occurs during what month?",
         ANSWER: "July"
       },
@@ -18461,7 +18456,7 @@ tree = {
         ANSWER: "King Arthur"
       },
       {
-        SUBJECT: "xtra 7. The Old West",
+        SUBJECT: "The Old West",
         QUESTION_CONTENTS: "What animals were moved from Texas to Kansas and Nebraska railroads in the Long Drive?",
         ANSWER: "cattle"
       },
@@ -34322,8 +34317,8 @@ tree = {
       },
       {
         SUBJECT: "Geometric Series",
-        QUESTION_CONTENTS: "What is the common ratio of the geometric series that begins with these numbers?",
-        ANSWER: "3 6 12 24 48"
+        QUESTION_CONTENTS: "What is the common ratio of the geometric series that begins with these numbers? 3 6 12 24 48",
+        ANSWER: "2"
       },
       {
         SUBJECT: "Britain",
